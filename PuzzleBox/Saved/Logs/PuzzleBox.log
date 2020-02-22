@@ -3645,3 +3645,7 @@ Script Stack (0 frames):
 [2020.02.22-20.14.47:622][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2020.02.22-20.14.47:890][546]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room9E74F9264A218CB6904F0A97E209D88C.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap'
 [2020.02.22-20.14.49:432][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-22.14.58:895][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-22.14.59:143][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.02.22-22.14.59:400][667]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room90627CDE48DE700AFBF920AD2BEED16E.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap'
+[2020.02.22-22.15.02:549][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
