@@ -2059,3 +2059,1589 @@ Script Stack (0 frames):
 [2020.02.22-18.46.59:073][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.02.22-18.46.59:408][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2020.02.22-18.46.59:590][424]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room361AAEE6447DB5ABD500AF961D605F83.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap'
+[2020.02.22-18.48.23:795][245]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK
+[2020.02.22-18.53.40:816][632]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.22-18.56.47:711][687]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-18.56.47:715][687]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-18.56.49:047][835]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-18.56.49:051][835]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-18.56.49:118][835]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-18.56.49:186][835]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-18.56.50:318][963]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-18.56.50:327][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-18.56.50:328][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-18.56.50:328][963]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 8:56:50 AM)
+[2020.02.22-18.56.50:328][963]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-18.56.50:334][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006645s)
+[2020.02.22-18.56.50:335][963]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-18.56.50:335][963]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.02.22-18.56.50:335][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007346s)
+[2020.02.22-18.56.50:391][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.22-18.56.50:430][963]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-18.56.50:444][963]LogInit: FAudioDevice initialized.
+[2020.02.22-18.56.50:475][963]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-18.56.50:476][963]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-13.56.50
+[2020.02.22-18.56.50:477][963]LogWorld: Bringing up level for play took: 0.001472
+[2020.02.22-18.56.50:490][963]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.094
+[2020.02.22-18.56.50:490][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-18.57.24:795][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-18.57.24:795][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-18.57.24:825][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-18.57.24:825][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-18.57.24:857][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-18.57.24:881][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.02.22-18.57.24:899][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.02.22-18.57.50:259][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.22-18.57.50:259][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.068
+[2020.02.22-18.57.50:260][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK] ([1] browsable assets)...
+[2020.02.22-18.57.50:290][357]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK]
+[2020.02.22-18.57.50:290][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK]
+[2020.02.22-18.57.50:310][357]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushableBlock_DK_Auto29E605ED0403E48777135DC8FFEA99707.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK_Auto2.uasset'
+[2020.02.22-18.57.50:311][357]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.02.22-19.00.20:181][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.00.20:349][811]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK
+[2020.02.22-19.00.59:956][261]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-19.00.59:959][261]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-19.01.04:182][744]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK
+[2020.02.22-19.01.07:979][166]LogSlate: Window 'BP_PushableBlock_DK' being destroyed
+[2020.02.22-19.01.07:982][166]LogSlate: Window 'BP_PushableBlock_DK' being destroyed
+[2020.02.22-19.01.11:320][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.22-19.01.14:330][534]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.22-19.01.14:333][534]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK
+[2020.02.22-19.01.14:548][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.22-19.01.14:705][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.22-19.01.44:625][ 41]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-19.01.57:534][564]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK
+[2020.02.22-19.02.12:649][314]Cmd: TRANSACTION UNDO
+[2020.02.22-19.02.12:649][314]LogEditorTransaction: Undo Add Component
+[2020.02.22-19.02.32:959][709]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-19.02.46:682][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.03.09:520][582]Cmd: TRANSACTION UNDO
+[2020.02.22-19.03.09:520][582]LogEditorTransaction: Undo Add Component
+[2020.02.22-19.03.21:836][ 12]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.03.21:969][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.22-19.03.32:286][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.04.40:906][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.05.46:105][369]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.05.46:247][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.22-19.05.46:251][369]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_2.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.05.48:100][543]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.05.48:103][543]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.05.50:466][818]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.05.50:477][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.05.50:477][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.05.50:477][818]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:05:50 AM)
+[2020.02.22-19.05.50:477][818]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.05.50:484][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006831s)
+[2020.02.22-19.05.50:484][818]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.05.50:485][818]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2020.02.22-19.05.50:485][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007447s)
+[2020.02.22-19.05.50:513][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.22-19.05.50:553][818]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.05.50:567][818]LogInit: FAudioDevice initialized.
+[2020.02.22-19.05.50:599][818]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.05.50:601][818]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.05.50
+[2020.02.22-19.05.50:649][818]LogWorld: Bringing up level for play took: 0.049513
+[2020.02.22-19.05.50:661][818]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.078
+[2020.02.22-19.05.50:661][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.06.18:514][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.06.18:514][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.06.18:541][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.06.18:541][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.06.18:571][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.06.18:575][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.22-19.06.18:612][156]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.02.22-19.06.20:869][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.06.21:046][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK
+[2020.02.22-19.06.37:687][322]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.06.37:818][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.22-19.06.37:820][322]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_3.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.06.46:231][316]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-19.06.52:925][110]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy2_DK_C (BP_Enemy2_DK)
+[2020.02.22-19.06.57:907][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.06.57:999][710]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.06.58:012][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.06.58:012][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.06.58:012][710]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:06:58 AM)
+[2020.02.22-19.06.58:012][710]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.06.58:018][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006515s)
+[2020.02.22-19.06.58:019][710]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.06.58:019][710]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2020.02.22-19.06.58:019][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007272s)
+[2020.02.22-19.06.58:047][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.22-19.06.58:088][710]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.06.58:101][710]LogInit: FAudioDevice initialized.
+[2020.02.22-19.06.58:132][710]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.06.58:133][710]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.06.58
+[2020.02.22-19.06.58:134][710]LogWorld: Bringing up level for play took: 0.001483
+[2020.02.22-19.06.58:147][710]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.436
+[2020.02.22-19.06.58:147][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.08:171][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.08:171][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.07.08:202][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.07.08:202][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.08:234][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.07.08:238][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.02.22-19.07.08:272][913]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.02.22-19.07.09:392][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK)
+[2020.02.22-19.07.24:677][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.07.24:785][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.07.24:793][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.24:793][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.07.24:793][876]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:07:24 AM)
+[2020.02.22-19.07.24:793][876]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.07.24:800][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006634s)
+[2020.02.22-19.07.24:800][876]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.07.24:801][876]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2020.02.22-19.07.24:801][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007291s)
+[2020.02.22-19.07.24:829][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.22-19.07.24:870][876]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.07.24:883][876]LogInit: FAudioDevice initialized.
+[2020.02.22-19.07.24:915][876]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.07.24:916][876]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.07.24
+[2020.02.22-19.07.24:917][876]LogWorld: Bringing up level for play took: 0.001514
+[2020.02.22-19.07.24:930][876]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.347
+[2020.02.22-19.07.24:930][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.38:907][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.38:907][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.07.38:934][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.07.38:934][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.07.38:964][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.07.38:967][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.22-19.07.39:009][436]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.02.22-19.07.45:869][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.08.27:961][601]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.08.28:094][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.22-19.08.28:096][601]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_4.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.08.30:764][913]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.08.30:777][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.08.30:777][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.08.30:777][913]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:08:30 AM)
+[2020.02.22-19.08.30:777][913]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.08.30:784][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006475s)
+[2020.02.22-19.08.30:784][913]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.08.30:784][913]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2020.02.22-19.08.30:784][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007054s)
+[2020.02.22-19.08.30:813][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.22-19.08.30:854][913]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.08.30:868][913]LogInit: FAudioDevice initialized.
+[2020.02.22-19.08.30:899][913]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.08.30:900][913]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.08.30
+[2020.02.22-19.08.30:901][913]LogWorld: Bringing up level for play took: 0.001327
+[2020.02.22-19.08.30:914][913]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.331
+[2020.02.22-19.08.30:914][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.08.36:918][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.08.36:919][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.08.36:948][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.08.36:949][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.08.36:981][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.08.36:986][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.22-19.08.37:025][632]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.02.22-19.08.53:669][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.09.12:955][826]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.09.13:085][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.22-19.09.13:088][826]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_5.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.09.15:659][124]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.09.15:672][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.15:672][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.09.15:672][124]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:09:15 AM)
+[2020.02.22-19.09.15:673][124]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.09.15:679][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005952s)
+[2020.02.22-19.09.15:679][124]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.09.15:679][124]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2020.02.22-19.09.15:679][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.006532s)
+[2020.02.22-19.09.15:710][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.22-19.09.15:751][124]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.09.15:763][124]LogInit: FAudioDevice initialized.
+[2020.02.22-19.09.15:789][124]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.09.15:791][124]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.09.15
+[2020.02.22-19.09.15:791][124]LogWorld: Bringing up level for play took: 0.001248
+[2020.02.22-19.09.15:804][124]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.779
+[2020.02.22-19.09.15:804][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.26:454][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.26:454][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.09.26:482][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.09.26:482][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.26:513][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.09.26:517][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.02.22-19.09.26:560][397]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.02.22-19.09.27:969][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.09.34:021][226]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.09.34:153][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.22-19.09.34:155][226]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_6.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.09.36:835][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.09.36:848][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.36:848][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.09.36:848][539]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:09:36 AM)
+[2020.02.22-19.09.36:848][539]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.09.36:855][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006261s)
+[2020.02.22-19.09.36:855][539]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.09.36:855][539]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2020.02.22-19.09.36:855][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.006840s)
+[2020.02.22-19.09.36:884][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.22-19.09.36:924][539]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.09.36:938][539]LogInit: FAudioDevice initialized.
+[2020.02.22-19.09.36:967][539]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.09.36:968][539]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.09.36
+[2020.02.22-19.09.36:968][539]LogWorld: Bringing up level for play took: 0.001273
+[2020.02.22-19.09.36:981][539]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.398
+[2020.02.22-19.09.36:981][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.43:578][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.43:578][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.09.43:608][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.09.43:608][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.43:639][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.09.43:643][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.22-19.09.43:685][332]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.02.22-19.09.45:585][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.09.51:949][278]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.09.52:079][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.22-19.09.52:083][278]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_7.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.09.56:609][480]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.09.56:621][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.09.56:621][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.09.56:621][480]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:09:56 AM)
+[2020.02.22-19.09.56:622][480]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.09.56:628][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005952s)
+[2020.02.22-19.09.56:628][480]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.09.56:628][480]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2020.02.22-19.09.56:628][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.006592s)
+[2020.02.22-19.09.56:658][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.22-19.09.56:698][480]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.09.56:711][480]LogInit: FAudioDevice initialized.
+[2020.02.22-19.09.56:738][480]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.09.56:739][480]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.09.56
+[2020.02.22-19.09.56:739][480]LogWorld: Bringing up level for play took: 0.001276
+[2020.02.22-19.09.56:752][480]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.169
+[2020.02.22-19.09.56:752][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.10.09:902][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.10.09:902][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.10.09:929][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.10.09:929][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.10.09:958][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.10.09:962][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.22-19.10.10:004][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.02.22-19.10.24:396][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.11.26:056][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.12.13:132][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.13.31:711][589]LogEditorTransaction: Undo Attach Component
+[2020.02.22-19.15.19:852][ 99]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.15.20:102][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.22-19.15.20:105][ 99]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_8.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.15.22:609][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.15.22:624][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.15.22:624][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.15.22:624][396]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:15:22 AM)
+[2020.02.22-19.15.22:624][396]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.15.22:631][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006902s)
+[2020.02.22-19.15.22:632][396]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.15.22:632][396]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.02.22-19.15.22:632][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007570s)
+[2020.02.22-19.15.22:660][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.22-19.15.22:700][396]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.15.22:713][396]LogInit: FAudioDevice initialized.
+[2020.02.22-19.15.22:742][396]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.15.22:743][396]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.15.22
+[2020.02.22-19.15.22:744][396]LogWorld: Bringing up level for play took: 0.001490
+[2020.02.22-19.15.22:757][396]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.174
+[2020.02.22-19.15.22:757][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.15.54:490][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.15.54:490][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.15.54:521][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.15.54:521][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.15.54:553][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.15.54:557][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.22-19.15.54:593][196]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.02.22-19.15.55:682][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.04:437][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.07:939][684]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-19.16.09:766][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.20:087][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.24:640][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.24:723][557]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.16.24:916][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.22-19.16.24:919][557]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_9.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.16.28:517][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.16.28:600][978]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.16.28:612][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.16.28:612][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.16.28:612][978]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:16:28 AM)
+[2020.02.22-19.16.28:612][978]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.16.28:618][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006510s)
+[2020.02.22-19.16.28:619][978]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.16.28:619][978]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2020.02.22-19.16.28:619][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007084s)
+[2020.02.22-19.16.28:649][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.22-19.16.28:689][978]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.16.28:702][978]LogInit: FAudioDevice initialized.
+[2020.02.22-19.16.28:730][978]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.16.28:731][978]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.16.28
+[2020.02.22-19.16.28:732][978]LogWorld: Bringing up level for play took: 0.001331
+[2020.02.22-19.16.28:745][978]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.162
+[2020.02.22-19.16.28:750][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.17.04:755][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.17.04:756][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.17.04:785][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.17.04:785][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.17.04:816][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.17.04:819][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.22-19.17.04:855][287]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.02.22-19.17.30:055][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.22-19.17.30:233][800]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto34387BB604AF307C3CCC39C8CFABE44C2.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto3.umap'
+[2020.02.22-19.17.30:234][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.243
+[2020.02.22-19.17.30:234][800]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2020.02.22-19.17.30:236][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK] ([1] browsable assets)...
+[2020.02.22-19.17.30:261][800]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK]
+[2020.02.22-19.17.30:261][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK]
+[2020.02.22-19.17.30:289][800]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushBlock_DK_Auto3D735314D4B57E0586B28D2B295267F2C.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK_Auto3.uasset'
+[2020.02.22-19.17.30:290][800]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.02.22-19.22.57:439][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.22.57:537][778]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.22.57:547][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.22.57:548][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.22.57:548][778]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:22:57 AM)
+[2020.02.22-19.22.57:548][778]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.22.57:555][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007169s)
+[2020.02.22-19.22.57:556][778]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.22.57:556][778]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2020.02.22-19.22.57:556][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007928s)
+[2020.02.22-19.22.57:589][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.22-19.22.57:638][778]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.22.57:655][778]LogInit: FAudioDevice initialized.
+[2020.02.22-19.22.57:685][778]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.22.57:686][778]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.22.57
+[2020.02.22-19.22.57:687][778]LogWorld: Bringing up level for play took: 0.001639
+[2020.02.22-19.22.57:702][778]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 1.119
+[2020.02.22-19.22.57:703][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.24.09:488][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.24.09:489][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.24.09:520][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.24.09:520][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.24.09:552][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.24.09:556][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.22-19.24.09:591][358]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2020.02.22-19.24.15:072][ 13]LogEditorViewport: Clicking on Actor (LMB): CameraActor (TerminalCamera)
+[2020.02.22-19.24.26:956][311]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.26:956][311]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.24.32:359][949]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.32:359][949]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-19.24.32:989][ 10]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.32:989][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.24.33:781][101]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.33:781][101]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-19.24.34:217][153]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.34:217][153]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-19.24.35:457][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.22-19.24.38:722][685]Cmd: TRANSACTION UNDO
+[2020.02.22-19.24.38:723][685]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.24.43:170][212]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.22-19.24.53:267][410]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.22-19.25.00:063][217]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.00:063][217]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.25.00:243][234]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.00:244][234]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.25.00:585][268]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.00:585][268]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-19.25.00:957][309]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.00:957][309]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.25.01:304][350]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.01:304][350]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.25.01:783][407]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.01:783][407]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.25.02:164][450]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.02:164][450]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.25.02:565][498]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.02:566][498]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-19.25.02:881][535]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.02:881][535]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-19.25.03:224][576]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.03:224][576]LogEditorTransaction: Undo Create Pin Link
+[2020.02.22-19.25.03:583][618]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.03:583][618]LogEditorTransaction: Undo Create Pin Link
+[2020.02.22-19.25.04:162][686]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.04:162][686]LogEditorTransaction: Undo Create Pin Link
+[2020.02.22-19.25.05:363][829]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.05:363][829]LogEditorTransaction: Undo Move Node
+[2020.02.22-19.25.06:017][906]Cmd: TRANSACTION UNDO
+[2020.02.22-19.25.06:017][906]LogEditorTransaction: Undo Create Pin Link
+[2020.02.22-19.25.07:672][103]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.07:672][103]LogEditorTransaction: Redo Create Pin Link
+[2020.02.22-19.25.07:957][136]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.07:957][136]LogEditorTransaction: Redo Move Node
+[2020.02.22-19.25.08:275][173]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.08:275][173]LogEditorTransaction: Redo Create Pin Link
+[2020.02.22-19.25.08:608][212]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.08:608][212]LogEditorTransaction: Redo Create Pin Link
+[2020.02.22-19.25.08:944][251]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.08:944][251]LogEditorTransaction: Redo Create Pin Link
+[2020.02.22-19.25.09:312][294]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.09:312][294]LogEditorTransaction: Redo Modify Component(s)
+[2020.02.22-19.25.09:673][337]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.09:673][337]LogEditorTransaction: Redo Modify Component(s)
+[2020.02.22-19.25.10:136][392]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.10:136][392]LogEditorTransaction: Redo Clicking on Actors
+[2020.02.22-19.25.10:587][443]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.10:587][443]LogEditorTransaction: Redo Clicking on Actors
+[2020.02.22-19.25.11:358][533]Cmd: TRANSACTION REDO
+[2020.02.22-19.25.11:359][533]LogEditorTransaction: Redo Move Actors
+[2020.02.22-19.25.20:712][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.25.27:131][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.25.27:208][304]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.25.27:370][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.22-19.25.27:373][304]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_10.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.25.27:899][348]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushBlock_DKD147DE1F45DBB9BF36DDBBA42B5CE223.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.uasset'
+[2020.02.22-19.25.33:017][888]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.25.33:020][888]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.25.37:988][471]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.22-19.25.43:106][ 79]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.02.22-19.25.44:060][189]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.02.22-19.25.45:937][412]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2020.02.22-19.25.51:860][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.25.51:984][128]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.25.51:993][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.25.51:993][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.25.51:993][128]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:25:51 AM)
+[2020.02.22-19.25.51:993][128]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.25.52:000][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006491s)
+[2020.02.22-19.25.52:001][128]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.25.52:001][128]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2020.02.22-19.25.52:001][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007192s)
+[2020.02.22-19.25.52:029][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.22-19.25.52:069][128]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.25.52:084][128]LogInit: FAudioDevice initialized.
+[2020.02.22-19.25.52:112][128]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.25.52:113][128]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.25.52
+[2020.02.22-19.25.52:114][128]LogWorld: Bringing up level for play took: 0.001444
+[2020.02.22-19.25.52:127][128]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.456
+[2020.02.22-19.25.52:127][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.25.57:092][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.25.57:093][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.25.57:122][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.25.57:122][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.25.57:152][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.25.57:155][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.22-19.25.57:199][721]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.02.22-19.25.59:586][  6]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2020.02.22-19.26.06:357][812]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2020.02.22-19.26.10:733][327]LogEditorViewport: Clicking on Actor (CTRL LMB): CameraActor (TerminalCamera)
+[2020.02.22-19.26.12:113][486]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (TerminalTrigger)
+[2020.02.22-19.26.20:530][482]Cmd: TRANSACTION UNDO
+[2020.02.22-19.26.20:530][482]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.26.20:832][514]Cmd: TRANSACTION UNDO
+[2020.02.22-19.26.20:832][514]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.26.25:988][122]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (SpawnPoint)
+[2020.02.22-19.26.27:975][356]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Terminal)
+[2020.02.22-19.26.39:939][762]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-19.26.40:773][858]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Enemy2_DK_C (BP_Enemy2_DK)
+[2020.02.22-19.26.55:340][583]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.22-19.27.05:682][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.22-19.27.18:172][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.27.53:908][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.28.03:598][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.28.14:956][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.28.15:056][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.28.15:065][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.28.15:065][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.28.15:065][ 10]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:28:15 AM)
+[2020.02.22-19.28.15:065][ 10]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.28.15:073][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007460s)
+[2020.02.22-19.28.15:073][ 10]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.28.15:073][ 10]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2020.02.22-19.28.15:073][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.008041s)
+[2020.02.22-19.28.15:106][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.22-19.28.15:148][ 10]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.28.15:161][ 10]LogInit: FAudioDevice initialized.
+[2020.02.22-19.28.15:187][ 10]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.28.15:189][ 10]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.28.15
+[2020.02.22-19.28.15:189][ 10]LogWorld: Bringing up level for play took: 0.001471
+[2020.02.22-19.28.15:202][ 10]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.618
+[2020.02.22-19.28.15:202][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.28.22:740][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.28.22:740][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.28.22:767][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.28.22:767][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.28.22:797][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.28.22:800][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.22-19.28.22:844][914]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.02.22-19.28.23:878][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Terminal_DK_C (BP_Terminal_DK)
+[2020.02.22-19.28.24:911][159]Cmd: DELETE
+[2020.02.22-19.28.24:912][159]Cmd: ACTOR DELETE
+[2020.02.22-19.28.24:915][159]LogEditorActor: Deleted Actor: BP_Terminal_DK_C
+[2020.02.22-19.28.24:941][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.22-19.28.24:941][159]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.28.33:904][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Terminal)
+[2020.02.22-19.28.36:506][533]LogEditorViewport: Clicking on Actor (CTRL LMB): CameraActor (TerminalCamera)
+[2020.02.22-19.28.39:355][868]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (SpawnPoint)
+[2020.02.22-19.28.42:770][273]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (TerminalTrigger)
+[2020.02.22-19.28.48:356][935]Cmd: EDIT COPY
+[2020.02.22-19.28.49:229][ 39]Cmd: EDIT PASTE
+[2020.02.22-19.29.06:535][ 84]Cmd: TRANSACTION UNDO
+[2020.02.22-19.29.06:535][ 84]LogEditorTransaction: Undo Snap Actors To Floor
+[2020.02.22-19.29.14:993][ 86]LogEditorViewport: Clicking on Actor (LMB): CameraActor (TerminalCamera2)
+[2020.02.22-19.29.49:081][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.29.49:247][127]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.29.49:255][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.29.49:255][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.29.49:255][127]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:29:49 AM)
+[2020.02.22-19.29.49:256][127]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.29.49:264][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008269s)
+[2020.02.22-19.29.49:264][127]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.29.49:264][127]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2020.02.22-19.29.49:264][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.008940s)
+[2020.02.22-19.29.49:290][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.22-19.29.49:332][127]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.29.49:348][127]LogInit: FAudioDevice initialized.
+[2020.02.22-19.29.49:377][127]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.29.49:378][127]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.29.49
+[2020.02.22-19.29.49:379][127]LogWorld: Bringing up level for play took: 0.001778
+[2020.02.22-19.29.49:392][127]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.809
+[2020.02.22-19.29.49:392][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.30.01:508][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.30.01:508][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.30.01:538][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.30.01:538][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.30.01:568][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.30.01:572][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.22-19.30.01:615][579]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.02.22-19.30.07:334][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.30.07:509][278]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK.BP_Terminal_DK
+[2020.02.22-19.30.29:946][916]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.30.29:949][916]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.30.34:769][485]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TerminalTrigger)
+[2020.02.22-19.30.36:715][712]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Terminal)
+[2020.02.22-19.30.36:760][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-19.30.49:823][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.30.54:067][747]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PuzzleBox/DavidKingsley/Art/SM_Terminal_DK.SM_Terminal_DK
+[2020.02.22-19.30.56:313][968]LogSlate: Window 'SM_Terminal_DK' being destroyed
+[2020.02.22-19.30.56:316][968]LogSlate: Window 'SM_Terminal_DK' being destroyed
+[2020.02.22-19.30.57:311][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.30.58:718][239]LogStaticMesh: Building static mesh SM_PuzzleObject2_DK...
+[2020.02.22-19.30.58:731][239]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBox/DavidKingsley/Art/SM_PuzzleObject2_DK.SM_PuzzleObject2_DK
+[2020.02.22-19.30.58:737][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-19.30.58:740][239]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PuzzleBox/DavidKingsley/Art/SM_PuzzleObject2_DK.SM_PuzzleObject2_DK
+[2020.02.22-19.31.00:896][452]LogSlate: Window 'SM_PuzzleObject2_DK' being destroyed
+[2020.02.22-19.31.00:899][452]LogSlate: Window 'SM_PuzzleObject2_DK' being destroyed
+[2020.02.22-19.31.10:264][559]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.31.16:713][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.31.25:324][298]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK.BP_Terminal_DK
+[2020.02.22-19.31.29:473][753]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.31.29:476][753]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.31.33:260][197]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TerminalTrigger)
+[2020.02.22-19.31.34:998][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.31.35:171][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK.BP_Terminal_DK
+[2020.02.22-19.31.39:089][822]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.31.39:092][822]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.31.41:969][158]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.41:969][158]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.31.42:168][179]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.42:168][179]LogEditorTransaction: Undo Create Actor
+[2020.02.22-19.31.42:362][195]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.42:362][195]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.02.22-19.31.42:528][210]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.42:528][210]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.31.42:721][233]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.42:721][233]LogEditorTransaction: Undo Delete current selection
+[2020.02.22-19.31.43:094][277]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:094][277]LogEditorTransaction: Undo Delete current selection
+[2020.02.22-19.31.43:304][302]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:304][302]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.43:465][321]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:465][321]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.43:665][345]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:665][345]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.43:824][364]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:825][364]LogEditorTransaction: Undo Rotate Actors
+[2020.02.22-19.31.43:968][381]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.43:968][381]LogEditorTransaction: Undo Rotate Actors
+[2020.02.22-19.31.44:110][398]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:110][398]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.44:253][415]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:253][415]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.44:412][434]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:412][434]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.44:622][459]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:622][459]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.44:797][480]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:797][480]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.44:972][501]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.44:972][501]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.31.45:153][517]Cmd: TRANSACTION UNDO
+[2020.02.22-19.31.45:153][517]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.31.50:460][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.31.50:636][155]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK.BP_Terminal_DK
+[2020.02.22-19.32.03:150][438]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.22-19.32.49:898][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.22-19.32.50:088][990]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto41A8331084A10F3970459F2BD259A6405.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto4.umap'
+[2020.02.22-19.32.50:090][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.239
+[2020.02.22-19.32.50:090][990]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2020.02.22-19.32.50:091][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK] ([1] browsable assets)...
+[2020.02.22-19.32.50:117][990]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK.BP_Terminal_DK]
+[2020.02.22-19.32.50:117][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK]
+[2020.02.22-19.32.50:130][990]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Terminal_DK_Auto40B98FFB542239512CF40449549CCE972.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Terminal_DK_Auto4.uasset'
+[2020.02.22-19.32.50:131][990]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.02.22-19.32.54:296][  9]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.32.54:339][  9]LogSlate: Window 'BP_Terminal_DK' being destroyed
+[2020.02.22-19.33.01:468][850]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TerminalTrigger)
+[2020.02.22-19.33.04:399][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Terminal)
+[2020.02.22-19.33.05:841][365]LogEditorViewport: Clicking on Actor (CTRL LMB): CameraActor (TerminalCamera)
+[2020.02.22-19.33.10:442][909]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (SpawnPoint)
+[2020.02.22-19.33.31:685][453]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.33.35:030][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.33.36:559][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.33.42:311][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.33.53:678][ 57]Cmd: TRANSACTION UNDO
+[2020.02.22-19.33.53:678][ 57]LogEditorTransaction: Undo Snap Actors To Floor
+[2020.02.22-19.33.59:144][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Terminal2)
+[2020.02.22-19.34.00:971][914]LogEditorViewport: Clicking on Actor (CTRL LMB): CameraActor (TerminalCamera2)
+[2020.02.22-19.34.02:620][106]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (SpawnPoint2)
+[2020.02.22-19.34.04:190][292]LogEditorViewport: Clicking on Actor (CTRL LMB): TriggerBox (TerminalTrigger2)
+[2020.02.22-19.34.06:388][553]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Terminal2)
+[2020.02.22-19.34.06:404][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-19.34.10:978][101]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (SpawnPoint2)
+[2020.02.22-19.34.10:994][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-19.34.15:914][684]Cmd: TRANSACTION UNDO
+[2020.02.22-19.34.15:914][684]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-19.34.17:376][850]Cmd: DELETE
+[2020.02.22-19.34.17:376][850]Cmd: ACTOR DELETE
+[2020.02.22-19.34.17:379][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.34.17:380][850]LogEditorActor: Deleted Actor: CameraActor
+[2020.02.22-19.34.17:409][850]LogEditorActor: Deleted Actor: TriggerBox
+[2020.02.22-19.34.17:410][850]LogEditorActor: Deleted Actor: TriggerBox
+[2020.02.22-19.34.17:440][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.22-19.34.17:440][850]LogEditorActor: Deleted 4 Actors (0.063 secs)
+[2020.02.22-19.34.18:829][ 17]LogEditorViewport: Clicking on Actor (LMB): CameraActor (TerminalCamera)
+[2020.02.22-19.34.23:746][589]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.34.36:017][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.34.51:358][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.34.51:483][893]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.34.51:493][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.34.51:493][893]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.22-19.34.51:493][893]LogPlayLevel: [PlayLevel] Compiling BP_Terminal_DK before play...
+[2020.02.22-19.34.51:617][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.02.22-19.34.51:617][893]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2020.02.22-19.34.51:617][893]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:34:51 AM)
+[2020.02.22-19.34.51:617][893]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.34.51:625][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007217s)
+[2020.02.22-19.34.51:625][893]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.34.51:625][893]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2020.02.22-19.34.51:625][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007816s)
+[2020.02.22-19.34.51:651][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.22-19.34.51:690][893]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.34.51:702][893]LogInit: FAudioDevice initialized.
+[2020.02.22-19.34.51:728][893]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.34.51:729][893]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.34.51
+[2020.02.22-19.34.51:730][893]LogWorld: Bringing up level for play took: 0.001653
+[2020.02.22-19.34.51:743][893]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 1.16
+[2020.02.22-19.34.51:743][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.35.09:549][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.35.09:550][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.35.09:579][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.35.09:579][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.35.09:608][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.35.09:612][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.22-19.35.09:653][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.02.22-19.35.22:010][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.35.22:190][527]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK
+[2020.02.22-19.35.30:234][383]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.22-19.35.30:369][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.22-19.35.30:373][383]PIE: Warning: Constraint in '/Engine/Transient.World_39:PersistentLevel.BP_PushBlock_DK_C_11.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.22-19.35.31:970][569]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.35.31:974][569]LogSlate: Window 'BP_PushBlock_DK' being destroyed
+[2020.02.22-19.35.52:259][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.35.52:399][ 10]LogActorFactory: Actor Factory created Cube
+[2020.02.22-19.35.53:511][143]LogActorFactory: Actor Factory created Cube
+[2020.02.22-19.35.59:346][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.36.07:829][845]Cmd: EDIT COPY
+[2020.02.22-19.36.08:094][876]Cmd: EDIT PASTE
+[2020.02.22-19.36.16:770][911]Cmd: EDIT PASTE
+[2020.02.22-19.36.21:623][488]Cmd: EDIT COPY
+[2020.02.22-19.36.22:109][546]Cmd: EDIT PASTE
+[2020.02.22-19.36.26:291][ 39]Cmd: EDIT COPY
+[2020.02.22-19.36.26:568][ 72]Cmd: EDIT PASTE
+[2020.02.22-19.36.37:640][390]Cmd: EDIT COPY
+[2020.02.22-19.36.37:863][416]Cmd: EDIT PASTE
+[2020.02.22-19.36.46:164][406]Cmd: EDIT COPY
+[2020.02.22-19.36.46:436][438]Cmd: EDIT PASTE
+[2020.02.22-19.36.49:506][801]Cmd: EDIT COPY
+[2020.02.22-19.36.49:737][828]Cmd: EDIT PASTE
+[2020.02.22-19.36.53:492][274]Cmd: EDIT COPY
+[2020.02.22-19.36.53:718][300]Cmd: EDIT PASTE
+[2020.02.22-19.37.28:552][276]Cmd: TRANSACTION UNDO
+[2020.02.22-19.37.28:552][276]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.37.29:529][390]Cmd: EDIT COPY
+[2020.02.22-19.37.29:816][424]Cmd: EDIT PASTE
+[2020.02.22-19.37.38:430][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.38.01:075][152]Cmd: EDIT COPY
+[2020.02.22-19.38.01:304][179]Cmd: EDIT PASTE
+[2020.02.22-19.38.06:845][830]Cmd: EDIT COPY
+[2020.02.22-19.38.07:114][862]Cmd: EDIT PASTE
+[2020.02.22-19.38.22:168][659]Cmd: EDIT COPY
+[2020.02.22-19.38.22:440][691]Cmd: EDIT PASTE
+[2020.02.22-19.38.43:693][231]Cmd: EDIT COPY
+[2020.02.22-19.38.43:955][262]Cmd: EDIT PASTE
+[2020.02.22-19.38.58:668][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.22-19.38.59:764][146]Cmd: EDIT COPY
+[2020.02.22-19.39.00:054][180]Cmd: EDIT PASTE
+[2020.02.22-19.39.14:869][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.22-19.39.18:575][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-19.39.20:832][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.02.22-19.39.22:226][816]Cmd: EDIT COPY
+[2020.02.22-19.39.22:461][844]Cmd: EDIT PASTE
+[2020.02.22-19.39.33:603][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.22-19.39.34:571][287]Cmd: EDIT COPY
+[2020.02.22-19.39.34:831][318]Cmd: EDIT PASTE
+[2020.02.22-19.39.38:524][756]Cmd: EDIT COPY
+[2020.02.22-19.39.38:818][791]Cmd: EDIT PASTE
+[2020.02.22-19.39.44:322][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.02.22-19.39.47:145][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.02.22-19.39.49:840][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.22-19.39.53:353][511]Cmd: EDIT COPY
+[2020.02.22-19.39.53:634][544]Cmd: EDIT PASTE
+[2020.02.22-19.40.00:569][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.40.05:655][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.22-19.40.08:882][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.22-19.40.09:475][425]Cmd: EDIT COPY
+[2020.02.22-19.40.09:710][453]Cmd: EDIT PASTE
+[2020.02.22-19.40.18:776][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.22-19.40.19:997][671]Cmd: EDIT COPY
+[2020.02.22-19.40.20:244][700]Cmd: EDIT PASTE
+[2020.02.22-19.40.22:473][962]Cmd: EDIT COPY
+[2020.02.22-19.40.22:699][989]Cmd: EDIT PASTE
+[2020.02.22-19.40.25:869][364]Cmd: EDIT COPY
+[2020.02.22-19.40.26:147][397]Cmd: EDIT PASTE
+[2020.02.22-19.40.39:097][941]Cmd: EDIT COPY
+[2020.02.22-19.40.39:358][972]Cmd: EDIT PASTE
+[2020.02.22-19.40.50:321][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.02.22-19.40.57:751][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2020.02.22-19.41.11:061][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.41.21:609][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.02.22-19.41.22:318][ 89]Cmd: EDIT COPY
+[2020.02.22-19.41.22:679][132]Cmd: EDIT PASTE
+[2020.02.22-19.41.36:827][822]Cmd: EDIT COPY
+[2020.02.22-19.41.37:092][853]Cmd: EDIT PASTE
+[2020.02.22-19.41.46:222][941]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.42.03:037][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.02.22-19.42.05:810][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.02.22-19.42.08:311][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.22-19.42.11:831][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2020.02.22-19.42.15:742][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.22-19.42.24:417][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2020.02.22-19.42.28:902][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2020.02.22-19.42.31:410][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.02.22-19.42.39:270][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.02.22-19.42.43:711][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.02.22-19.42.53:024][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.02.22-19.42.55:098][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.02.22-19.42.57:258][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.02.22-19.43.05:742][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.02.22-19.43.06:653][484]Cmd: DELETE
+[2020.02.22-19.43.06:653][484]Cmd: ACTOR DELETE
+[2020.02.22-19.43.06:656][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.43.06:686][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.22-19.43.06:686][484]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.22-19.43.23:630][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.43.35:112][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.22-19.43.39:981][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2020.02.22-19.43.41:060][581]Cmd: DELETE
+[2020.02.22-19.43.41:060][581]Cmd: ACTOR DELETE
+[2020.02.22-19.43.41:063][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.43.41:090][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.22-19.43.41:090][581]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.22-19.43.41:939][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.44.15:833][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.44.20:381][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.44.24:353][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-19.44.37:292][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-19.44.40:177][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-19.44.43:122][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.02.22-19.44.45:839][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.22-19.44.48:421][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.44.56:365][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.45.01:738][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-19.45.08:736][ 26]Cmd: EDIT COPY
+[2020.02.22-19.45.08:954][ 51]Cmd: EDIT PASTE
+[2020.02.22-19.45.19:242][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-19.45.19:927][353]Cmd: EDIT COPY
+[2020.02.22-19.45.20:158][380]Cmd: EDIT PASTE
+[2020.02.22-19.45.41:490][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.22-19.45.43:576][179]Cmd: DELETE
+[2020.02.22-19.45.43:576][179]Cmd: ACTOR DELETE
+[2020.02.22-19.45.43:578][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.45.43:605][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.22-19.45.43:605][179]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.22-19.45.45:270][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.45.53:013][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.46.00:004][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-19.46.04:895][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.02.22-19.46.26:285][256]Cmd: EDIT COPY
+[2020.02.22-19.46.26:498][281]Cmd: EDIT PASTE
+[2020.02.22-19.46.34:277][208]Cmd: EDIT COPY
+[2020.02.22-19.46.34:528][238]Cmd: EDIT PASTE
+[2020.02.22-19.46.42:258][160]Cmd: EDIT COPY
+[2020.02.22-19.46.42:502][189]Cmd: EDIT PASTE
+[2020.02.22-19.46.49:496][ 23]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.46.51:042][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2020.02.22-19.46.54:823][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2020.02.22-19.46.59:887][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2020.02.22-19.47.03:036][625]Cmd: EDIT COPY
+[2020.02.22-19.47.03:267][652]Cmd: EDIT PASTE
+[2020.02.22-19.47.07:736][180]Cmd: EDIT COPY
+[2020.02.22-19.47.07:958][206]Cmd: EDIT PASTE
+[2020.02.22-19.47.10:421][496]Cmd: EDIT COPY
+[2020.02.22-19.47.10:652][523]Cmd: EDIT PASTE
+[2020.02.22-19.47.15:965][153]Cmd: EDIT COPY
+[2020.02.22-19.47.16:230][184]Cmd: EDIT PASTE
+[2020.02.22-19.47.21:450][803]Cmd: EDIT COPY
+[2020.02.22-19.47.21:680][830]Cmd: EDIT PASTE
+[2020.02.22-19.47.23:850][ 85]Cmd: EDIT COPY
+[2020.02.22-19.47.24:080][112]Cmd: EDIT PASTE
+[2020.02.22-19.47.30:765][906]Cmd: EDIT COPY
+[2020.02.22-19.47.31:046][939]Cmd: EDIT PASTE
+[2020.02.22-19.47.34:679][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.47.36:653][604]Cmd: EDIT COPY
+[2020.02.22-19.47.36:902][633]Cmd: EDIT PASTE
+[2020.02.22-19.47.41:019][109]Cmd: EDIT COPY
+[2020.02.22-19.47.41:263][138]Cmd: EDIT PASTE
+[2020.02.22-19.47.45:676][662]Cmd: EDIT COPY
+[2020.02.22-19.47.45:910][689]Cmd: EDIT PASTE
+[2020.02.22-19.47.48:263][966]Cmd: EDIT COPY
+[2020.02.22-19.47.48:535][998]Cmd: EDIT PASTE
+[2020.02.22-19.47.59:636][323]Cmd: EDIT COPY
+[2020.02.22-19.47.59:842][347]Cmd: EDIT PASTE
+[2020.02.22-19.48.02:154][619]Cmd: EDIT COPY
+[2020.02.22-19.48.02:402][648]Cmd: EDIT PASTE
+[2020.02.22-19.48.05:447][  8]Cmd: EDIT COPY
+[2020.02.22-19.48.05:724][ 41]Cmd: EDIT PASTE
+[2020.02.22-19.48.11:129][683]Cmd: TRANSACTION UNDO
+[2020.02.22-19.48.11:129][683]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.48.20:246][771]Cmd: EDIT COPY
+[2020.02.22-19.48.20:518][803]Cmd: EDIT PASTE
+[2020.02.22-19.48.24:530][279]Cmd: EDIT COPY
+[2020.02.22-19.48.24:770][307]Cmd: EDIT PASTE
+[2020.02.22-19.48.29:487][866]Cmd: EDIT COPY
+[2020.02.22-19.48.29:747][897]Cmd: EDIT PASTE
+[2020.02.22-19.48.34:149][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.48.34:249][432]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.48.34:257][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.48.34:257][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.48.34:257][432]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:48:34 AM)
+[2020.02.22-19.48.34:258][432]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.48.34:267][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008877s)
+[2020.02.22-19.48.34:267][432]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.48.34:267][432]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2020.02.22-19.48.34:267][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.009540s)
+[2020.02.22-19.48.34:293][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.22-19.48.34:334][432]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.48.34:348][432]LogInit: FAudioDevice initialized.
+[2020.02.22-19.48.34:374][432]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.48.34:376][432]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.48.34
+[2020.02.22-19.48.34:377][432]LogWorld: Bringing up level for play took: 0.002386
+[2020.02.22-19.48.34:389][432]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.194
+[2020.02.22-19.48.34:389][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.48.55:634][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.48.55:634][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.48.55:660][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.48.55:660][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.48.55:689][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.48.55:691][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.22-19.48.55:735][983]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.02.22-19.49.07:697][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube45)
+[2020.02.22-19.49.09:511][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube44)
+[2020.02.22-19.49.10:655][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2020.02.22-19.49.11:999][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube42)
+[2020.02.22-19.49.13:049][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2020.02.22-19.49.13:717][116]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2020.02.22-19.49.14:408][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2020.02.22-19.49.15:127][277]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube38)
+[2020.02.22-19.49.15:737][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube37)
+[2020.02.22-19.49.16:312][411]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube36)
+[2020.02.22-19.49.17:023][492]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube35)
+[2020.02.22-19.49.17:717][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2020.02.22-19.49.18:369][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2020.02.22-19.49.19:772][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube46)
+[2020.02.22-19.49.20:750][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube47)
+[2020.02.22-19.49.21:436][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2020.02.22-19.49.22:182][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2020.02.22-19.49.22:975][176]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2020.02.22-19.49.23:669][255]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2020.02.22-19.49.24:313][328]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2020.02.22-19.49.26:540][591]Cmd: EDIT COPY
+[2020.02.22-19.49.26:931][637]Cmd: EDIT PASTE
+[2020.02.22-19.49.34:680][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.49.34:763][567]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.49.34:772][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.49.34:772][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.49.34:772][567]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:49:34 AM)
+[2020.02.22-19.49.34:772][567]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.49.34:781][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009101s)
+[2020.02.22-19.49.34:782][567]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.49.34:782][567]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2020.02.22-19.49.34:782][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.009686s)
+[2020.02.22-19.49.34:808][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.22-19.49.34:847][567]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.49.34:860][567]LogInit: FAudioDevice initialized.
+[2020.02.22-19.49.34:890][567]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.49.34:892][567]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.49.34
+[2020.02.22-19.49.34:893][567]LogWorld: Bringing up level for play took: 0.002595
+[2020.02.22-19.49.34:906][567]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.323
+[2020.02.22-19.49.34:906][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.49.55:845][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.49.55:846][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.49.55:875][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.49.55:875][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.49.55:904][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.49.55:908][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-19.49.55:952][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2020.02.22-19.50.08:119][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.22-19.50.09:890][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2020.02.22-19.50.11:019][872]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2020.02.22-19.50.11:673][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2020.02.22-19.50.12:352][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2020.02.22-19.50.13:031][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2020.02.22-19.50.13:615][166]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2020.02.22-19.50.14:174][229]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2020.02.22-19.50.14:874][309]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2020.02.22-19.50.16:220][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.50.18:141][692]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube21)
+[2020.02.22-19.50.20:545][976]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube24)
+[2020.02.22-19.50.21:187][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2020.02.22-19.50.22:149][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2020.02.22-19.50.23:021][260]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2020.02.22-19.50.23:626][328]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2020.02.22-19.50.24:409][418]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2020.02.22-19.50.25:769][577]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2020.02.22-19.50.26:449][654]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2020.02.22-19.50.27:111][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.50.28:146][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2020.02.22-19.50.28:748][917]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2020.02.22-19.50.29:476][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2020.02.22-19.50.30:603][131]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2020.02.22-19.50.31:485][232]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube22)
+[2020.02.22-19.50.33:253][440]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube45)
+[2020.02.22-19.50.34:559][592]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2020.02.22-19.50.35:719][727]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube42)
+[2020.02.22-19.50.36:397][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2020.02.22-19.50.37:082][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2020.02.22-19.50.37:693][951]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2020.02.22-19.50.38:298][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube38)
+[2020.02.22-19.50.38:912][ 88]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube37)
+[2020.02.22-19.50.39:449][148]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube36)
+[2020.02.22-19.50.40:384][256]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube35)
+[2020.02.22-19.50.43:213][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2020.02.22-19.50.46:446][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube44)
+[2020.02.22-19.50.47:152][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube46)
+[2020.02.22-19.50.48:297][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube47)
+[2020.02.22-19.50.51:269][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube30)
+[2020.02.22-19.50.52:558][651]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2020.02.22-19.50.53:562][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2020.02.22-19.50.54:307][852]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2020.02.22-19.50.54:943][924]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2020.02.22-19.50.55:831][ 26]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2020.02.22-19.50.57:101][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube64)
+[2020.02.22-19.50.57:648][235]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube65)
+[2020.02.22-19.50.58:519][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube66)
+[2020.02.22-19.50.59:299][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube67)
+[2020.02.22-19.51.00:022][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube50)
+[2020.02.22-19.51.00:839][598]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube49)
+[2020.02.22-19.51.01:710][698]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube48)
+[2020.02.22-19.51.03:150][862]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube52)
+[2020.02.22-19.51.04:121][974]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube53)
+[2020.02.22-19.51.04:816][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube54)
+[2020.02.22-19.51.06:814][271]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube63)
+[2020.02.22-19.51.07:809][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2020.02.22-19.51.08:445][456]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2020.02.22-19.51.09:053][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2020.02.22-19.51.09:644][589]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2020.02.22-19.51.10:413][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube58)
+[2020.02.22-19.51.10:963][737]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube57)
+[2020.02.22-19.51.11:505][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube56)
+[2020.02.22-19.51.12:137][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube55)
+[2020.02.22-19.51.13:320][  4]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube51)
+[2020.02.22-19.51.24:599][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.51.31:860][189]Cmd: TRANSACTION UNDO
+[2020.02.22-19.51.31:860][189]LogEditorTransaction: Undo Edit X
+[2020.02.22-19.53.22:804][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.22-19.53.23:037][871]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto533F60DCB4AFDA7857ABD8180194AF115.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto5.umap'
+[2020.02.22-19.53.23:039][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.290
+[2020.02.22-19.53.23:039][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2020.02.22-19.53.23:040][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK] ([1] browsable assets)...
+[2020.02.22-19.53.23:066][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK]
+[2020.02.22-19.53.23:066][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK]
+[2020.02.22-19.53.23:090][871]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushBlock_DK_Auto563F6E077415D95C4563DB081BE2BC037.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK_Auto5.uasset'
+[2020.02.22-19.53.23:091][871]LogFileHelpers: Auto-saving content packages took 0.052
+[2020.02.22-19.53.59:687][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.02.22-19.54.01:253][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2020.02.22-19.54.01:973][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2020.02.22-19.54.02:892][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2020.02.22-19.54.03:552][743]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2020.02.22-19.54.04:156][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube58)
+[2020.02.22-19.54.04:651][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube57)
+[2020.02.22-19.54.05:223][930]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube56)
+[2020.02.22-19.54.06:377][ 64]Cmd: EDIT COPY
+[2020.02.22-19.54.06:720][104]Cmd: EDIT PASTE
+[2020.02.22-19.54.35:339][531]Cmd: EDIT COPY
+[2020.02.22-19.54.35:648][567]Cmd: EDIT PASTE
+[2020.02.22-19.54.49:696][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2020.02.22-19.54.51:053][399]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube67)
+[2020.02.22-19.54.51:956][503]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube50)
+[2020.02.22-19.54.52:486][562]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube49)
+[2020.02.22-19.54.53:081][629]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube48)
+[2020.02.22-19.54.53:540][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube51)
+[2020.02.22-19.54.54:068][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube52)
+[2020.02.22-19.54.54:646][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube53)
+[2020.02.22-19.54.55:132][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube54)
+[2020.02.22-19.54.56:727][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube65)
+[2020.02.22-19.54.58:062][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube64)
+[2020.02.22-19.54.59:350][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube63)
+[2020.02.22-19.55.00:404][468]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2020.02.22-19.55.00:932][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2020.02.22-19.55.01:461][586]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2020.02.22-19.55.02:055][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2020.02.22-19.55.02:585][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube58)
+[2020.02.22-19.55.03:115][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube57)
+[2020.02.22-19.55.04:462][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube55)
+[2020.02.22-19.55.05:165][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube56)
+[2020.02.22-19.55.13:283][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2020.02.22-19.55.14:816][143]Cmd: EDIT COPY
+[2020.02.22-19.55.15:080][174]Cmd: EDIT PASTE
+[2020.02.22-19.55.17:400][447]Cmd: EDIT PASTE
+[2020.02.22-19.55.20:891][860]Cmd: EDIT COPY
+[2020.02.22-19.55.21:176][894]Cmd: EDIT PASTE
+[2020.02.22-19.55.24:553][294]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube85)
+[2020.02.22-19.55.24:851][325]Cmd: EDIT COPY
+[2020.02.22-19.55.25:144][359]Cmd: EDIT PASTE
+[2020.02.22-19.55.28:630][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube87)
+[2020.02.22-19.55.30:316][971]Cmd: TRANSACTION UNDO
+[2020.02.22-19.55.30:316][971]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-19.55.30:651][  6]Cmd: TRANSACTION UNDO
+[2020.02.22-19.55.30:651][  6]LogEditorTransaction: Undo Paste
+[2020.02.22-19.55.32:817][259]Cmd: TRANSACTION UNDO
+[2020.02.22-19.55.32:817][259]LogEditorTransaction: Undo Move Actors
+[2020.02.22-19.55.34:733][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube84)
+[2020.02.22-19.55.35:878][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2020.02.22-19.55.36:716][717]Cmd: EDIT COPY
+[2020.02.22-19.55.37:033][754]Cmd: EDIT PASTE
+[2020.02.22-19.55.40:723][191]Cmd: EDIT COPY
+[2020.02.22-19.55.40:986][222]Cmd: EDIT PASTE
+[2020.02.22-19.55.44:201][602]Cmd: EDIT COPY
+[2020.02.22-19.55.44:515][639]Cmd: EDIT PASTE
+[2020.02.22-19.55.49:544][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-19.55.49:626][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-19.55.49:634][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.55.49:634][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-19.55.49:635][247]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 9:55:49 AM)
+[2020.02.22-19.55.49:635][247]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-19.55.49:645][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010399s)
+[2020.02.22-19.55.49:646][247]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-19.55.49:646][247]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2020.02.22-19.55.49:646][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.011049s)
+[2020.02.22-19.55.49:674][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.02.22-19.55.49:716][247]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-19.55.49:737][247]LogInit: FAudioDevice initialized.
+[2020.02.22-19.55.49:768][247]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-19.55.49:770][247]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-14.55.49
+[2020.02.22-19.55.49:770][247]LogWorld: Bringing up level for play took: 0.002935
+[2020.02.22-19.55.49:783][247]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.799
+[2020.02.22-19.55.49:783][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.56.05:963][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.56.05:963][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.56.05:991][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-19.56.05:992][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-19.56.06:021][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-19.56.06:025][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.22-19.56.06:069][187]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2020.02.22-19.56.23:350][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.02.22-19.56.25:941][566]Cmd: DELETE
+[2020.02.22-19.56.25:941][566]Cmd: ACTOR DELETE
+[2020.02.22-19.56.25:944][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.25:973][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.22-19.56.25:973][566]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.22-19.56.26:747][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.22-19.56.26:918][675]Cmd: DELETE
+[2020.02.22-19.56.26:918][675]Cmd: ACTOR DELETE
+[2020.02.22-19.56.26:922][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.26:948][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.22-19.56.26:948][675]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.56.28:074][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.02.22-19.56.28:497][856]Cmd: DELETE
+[2020.02.22-19.56.28:497][856]Cmd: ACTOR DELETE
+[2020.02.22-19.56.28:500][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.28:528][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.22-19.56.28:529][856]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.22-19.56.29:027][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.02.22-19.56.29:417][958]Cmd: DELETE
+[2020.02.22-19.56.29:417][958]Cmd: ACTOR DELETE
+[2020.02.22-19.56.29:420][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.29:446][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.22-19.56.29:447][958]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.56.33:155][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2020.02.22-19.56.34:961][615]Cmd: DELETE
+[2020.02.22-19.56.34:961][615]Cmd: ACTOR DELETE
+[2020.02.22-19.56.34:965][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.34:991][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.22-19.56.34:992][615]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.56.37:743][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2020.02.22-19.56.38:116][985]Cmd: DELETE
+[2020.02.22-19.56.38:117][985]Cmd: ACTOR DELETE
+[2020.02.22-19.56.38:120][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.38:147][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.22-19.56.38:147][985]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-19.56.38:697][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2020.02.22-19.56.38:942][ 76]Cmd: DELETE
+[2020.02.22-19.56.38:942][ 76]Cmd: ACTOR DELETE
+[2020.02.22-19.56.38:945][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.38:972][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.22-19.56.38:973][ 76]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.56.41:370][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2020.02.22-19.56.42:027][437]Cmd: DELETE
+[2020.02.22-19.56.42:027][437]Cmd: ACTOR DELETE
+[2020.02.22-19.56.42:030][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.42:057][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.22-19.56.42:057][437]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.56.42:794][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2020.02.22-19.56.42:998][545]Cmd: DELETE
+[2020.02.22-19.56.42:998][545]Cmd: ACTOR DELETE
+[2020.02.22-19.56.43:002][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.56.43:028][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.22-19.56.43:028][545]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.22-19.56.44:703][746]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK)
+[2020.02.22-19.56.59:243][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-19.57.04:268][ 70]Cmd: EDIT CUT
+[2020.02.22-19.57.04:276][ 70]LogEditorActor: Deleted Actor: BP_PushBlock_DK_C
+[2020.02.22-19.57.04:304][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.22-19.57.04:305][ 70]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-19.57.06:328][313]Cmd: TRANSACTION UNDO
+[2020.02.22-19.57.06:328][313]LogEditorTransaction: Undo Cut
+[2020.02.22-19.57.18:989][822]Cmd: EDIT COPY
+[2020.02.22-19.57.19:229][850]Cmd: EDIT PASTE
+[2020.02.22-19.57.25:746][627]Cmd: EDIT COPY
+[2020.02.22-19.57.26:019][659]Cmd: EDIT PASTE
+[2020.02.22-19.57.31:654][328]Cmd: EDIT COPY
+[2020.02.22-19.57.31:924][360]Cmd: EDIT PASTE
+[2020.02.22-19.57.45:154][940]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK3)
+[2020.02.22-19.57.46:097][ 50]Cmd: EDIT COPY
+[2020.02.22-19.57.46:337][ 78]Cmd: EDIT PASTE
+[2020.02.22-19.58.24:935][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-19.58.32:338][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-19.58.36:071][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-19.58.46:293][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.02.22-19.58.49:418][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-19.58.51:933][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-19.58.54:648][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2020.02.22-19.58.55:521][311]Cmd: DELETE
+[2020.02.22-19.58.55:521][311]Cmd: ACTOR DELETE
+[2020.02.22-19.58.55:525][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.58.55:557][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.22-19.58.55:557][311]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.22-19.59.32:510][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.02.22-19.59.33:430][847]Cmd: DELETE
+[2020.02.22-19.59.33:430][847]Cmd: ACTOR DELETE
+[2020.02.22-19.59.33:434][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-19.59.33:460][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.22-19.59.33:460][847]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-19.59.36:050][156]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK4)
+[2020.02.22-19.59.41:960][857]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK3)
+[2020.02.22-19.59.49:288][729]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK2)
+[2020.02.22-19.59.58:891][872]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK)
+[2020.02.22-20.00.02:109][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2020.02.22-20.00.05:400][642]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK5)
+[2020.02.22-20.00.10:902][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-20.00.13:670][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-20.00.17:640][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-20.00.20:988][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.02.22-20.00.23:249][754]Cmd: DELETE
+[2020.02.22-20.00.23:249][754]Cmd: ACTOR DELETE
+[2020.02.22-20.00.23:252][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.00.23:280][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.22-20.00.23:280][754]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.22-20.00.24:088][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-20.00.27:004][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-20.00.33:408][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-20.01.22:717][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-20.01.24:957][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-20.01.40:290][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-20.01.46:894][740]Cmd: EDIT COPY
+[2020.02.22-20.01.47:351][794]Cmd: EDIT PASTE
+[2020.02.22-20.01.56:079][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.02.22-20.01.59:054][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.02.22-20.02.01:194][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2020.02.22-20.02.07:579][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.02.22-20.02.08:181][259]Cmd: DELETE
+[2020.02.22-20.02.08:181][259]Cmd: ACTOR DELETE
+[2020.02.22-20.02.08:185][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.02.08:216][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.22-20.02.08:216][259]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.22-20.02.15:232][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.02.22-20.02.18:057][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.02.22-20.02.32:542][159]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK5)
+[2020.02.22-20.03.01:350][813]Cmd: TRANSACTION UNDO
+[2020.02.22-20.03.01:350][813]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.03.02:683][969]Cmd: EDIT COPY
+[2020.02.22-20.03.03:011][  8]Cmd: EDIT PASTE
+[2020.02.22-20.03.10:968][956]Cmd: EDIT COPY
+[2020.02.22-20.03.11:220][985]Cmd: EDIT PASTE
+[2020.02.22-20.03.17:115][687]Cmd: EDIT COPY
+[2020.02.22-20.03.17:383][718]Cmd: EDIT PASTE
+[2020.02.22-20.03.23:143][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-20.03.28:362][ 21]Cmd: EDIT COPY
+[2020.02.22-20.03.28:652][ 55]Cmd: EDIT PASTE
+[2020.02.22-20.03.38:514][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2020.02.22-20.03.39:730][372]Cmd: DELETE
+[2020.02.22-20.03.39:730][372]Cmd: ACTOR DELETE
+[2020.02.22-20.03.39:733][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.03.39:765][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.22-20.03.39:765][372]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.22-20.03.40:453][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2020.02.22-20.03.40:521][458]Cmd: DELETE
+[2020.02.22-20.03.40:521][458]Cmd: ACTOR DELETE
+[2020.02.22-20.03.40:525][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.03.40:551][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.22-20.03.40:552][458]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.03.41:634][588]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK9)
+[2020.02.22-20.03.43:101][760]Cmd: EDIT COPY
+[2020.02.22-20.03.43:331][787]Cmd: EDIT PASTE
+[2020.02.22-20.03.46:399][150]Cmd: EDIT COPY
+[2020.02.22-20.03.46:608][174]Cmd: EDIT PASTE
+[2020.02.22-20.04.01:606][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2020.02.22-20.04.02:753][ 87]Cmd: DELETE
+[2020.02.22-20.04.02:753][ 87]Cmd: ACTOR DELETE
+[2020.02.22-20.04.02:757][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.02:786][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.22-20.04.02:786][ 87]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.22-20.04.03:589][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2020.02.22-20.04.03:717][194]Cmd: DELETE
+[2020.02.22-20.04.03:717][194]Cmd: ACTOR DELETE
+[2020.02.22-20.04.03:721][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.03:746][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.04.03:747][194]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.22-20.04.04:504][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2020.02.22-20.04.04:569][288]Cmd: DELETE
+[2020.02.22-20.04.04:569][288]Cmd: ACTOR DELETE
+[2020.02.22-20.04.04:573][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.04:599][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.22-20.04.04:599][288]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.04.05:202][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube56)
+[2020.02.22-20.04.05:306][368]Cmd: DELETE
+[2020.02.22-20.04.05:306][368]Cmd: ACTOR DELETE
+[2020.02.22-20.04.05:309][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.05:336][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.02.22-20.04.05:337][368]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-20.04.05:833][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2020.02.22-20.04.05:972][439]Cmd: DELETE
+[2020.02.22-20.04.05:972][439]Cmd: ACTOR DELETE
+[2020.02.22-20.04.05:975][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.06:002][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.22-20.04.06:003][439]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.04.06:923][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2020.02.22-20.04.07:028][557]Cmd: DELETE
+[2020.02.22-20.04.07:028][557]Cmd: ACTOR DELETE
+[2020.02.22-20.04.07:031][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.07:058][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.04.07:058][557]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.04.08:623][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube55)
+[2020.02.22-20.04.09:280][819]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube54)
+[2020.02.22-20.04.10:299][937]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube35)
+[2020.02.22-20.04.11:041][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2020.02.22-20.04.16:449][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube55)
+[2020.02.22-20.04.17:295][761]Cmd: DELETE
+[2020.02.22-20.04.17:295][761]Cmd: ACTOR DELETE
+[2020.02.22-20.04.17:299][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.17:326][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.04.17:326][761]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.04.19:674][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2020.02.22-20.04.21:936][308]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK7)
+[2020.02.22-20.04.27:129][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2020.02.22-20.04.30:373][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-20.04.39:394][380]Cmd: TRANSACTION UNDO
+[2020.02.22-20.04.39:394][380]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.04.40:918][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-20.04.52:624][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.02.22-20.04.53:296][ 23]Cmd: DELETE
+[2020.02.22-20.04.53:296][ 23]Cmd: ACTOR DELETE
+[2020.02.22-20.04.53:300][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.04.53:327][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.22-20.04.53:327][ 23]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-20.04.54:393][151]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK11)
+[2020.02.22-20.04.55:459][275]Cmd: EDIT COPY
+[2020.02.22-20.04.55:744][309]Cmd: EDIT PASTE
+[2020.02.22-20.05.04:874][397]Cmd: EDIT COPY
+[2020.02.22-20.05.05:142][429]Cmd: EDIT PASTE
+[2020.02.22-20.05.14:742][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2020.02.22-20.05.46:394][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2020.02.22-20.05.47:256][462]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube74)
+[2020.02.22-20.05.47:835][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube73)
+[2020.02.22-20.05.48:413][592]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube72)
+[2020.02.22-20.05.49:108][671]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube71)
+[2020.02.22-20.05.49:510][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube70)
+[2020.02.22-20.05.49:897][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube69)
+[2020.02.22-20.05.51:635][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube83)
+[2020.02.22-20.05.53:184][140]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube86)
+[2020.02.22-20.05.53:754][204]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube85)
+[2020.02.22-20.05.54:241][258]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube87)
+[2020.02.22-20.05.54:754][315]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube88)
+[2020.02.22-20.05.55:241][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube89)
+[2020.02.22-20.05.56:021][458]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube84)
+[2020.02.22-20.05.59:545][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube82)
+[2020.02.22-20.06.00:117][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube81)
+[2020.02.22-20.06.00:671][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube80)
+[2020.02.22-20.06.01:317][ 74]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube79)
+[2020.02.22-20.06.01:762][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube78)
+[2020.02.22-20.06.02:250][177]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube77)
+[2020.02.22-20.06.06:389][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.02.22-20.06.07:197][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube77)
+[2020.02.22-20.06.08:452][904]Cmd: EDIT COPY
+[2020.02.22-20.06.08:702][933]Cmd: EDIT PASTE
+[2020.02.22-20.06.12:524][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2020.02.22-20.06.14:720][645]Cmd: DELETE
+[2020.02.22-20.06.14:720][645]Cmd: ACTOR DELETE
+[2020.02.22-20.06.14:724][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.14:753][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.22-20.06.14:753][645]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.22-20.06.18:169][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube77)
+[2020.02.22-20.06.18:500][ 90]Cmd: DELETE
+[2020.02.22-20.06.18:500][ 90]Cmd: ACTOR DELETE
+[2020.02.22-20.06.18:503][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.18:529][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.22-20.06.18:529][ 90]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.06.20:679][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2020.02.22-20.06.20:882][368]Cmd: DELETE
+[2020.02.22-20.06.20:882][368]Cmd: ACTOR DELETE
+[2020.02.22-20.06.20:886][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.20:912][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.06.20:913][368]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.06.22:386][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2020.02.22-20.06.22:598][566]Cmd: DELETE
+[2020.02.22-20.06.22:598][566]Cmd: ACTOR DELETE
+[2020.02.22-20.06.22:602][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.22:630][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.22-20.06.22:630][566]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.22-20.06.24:921][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube86)
+[2020.02.22-20.06.25:027][849]Cmd: DELETE
+[2020.02.22-20.06.25:027][849]Cmd: ACTOR DELETE
+[2020.02.22-20.06.25:030][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.25:057][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.06.25:057][849]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.06.25:711][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube84)
+[2020.02.22-20.06.25:856][940]Cmd: DELETE
+[2020.02.22-20.06.25:856][940]Cmd: ACTOR DELETE
+[2020.02.22-20.06.25:859][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.06.25:885][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.22-20.06.25:886][940]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-20.06.27:744][163]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.07.07:377][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.02.22-20.07.07:974][972]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2020.02.22-20.07.08:552][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2020.02.22-20.07.09:046][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2020.02.22-20.07.09:482][140]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2020.02.22-20.07.09:901][186]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.07.10:432][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube57)
+[2020.02.22-20.07.20:682][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.02.22-20.07.21:489][559]Cmd: DELETE
+[2020.02.22-20.07.21:489][559]Cmd: ACTOR DELETE
+[2020.02.22-20.07.21:493][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.07.21:520][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.22-20.07.21:521][559]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-20.07.22:624][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.02.22-20.07.23:676][813]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2020.02.22-20.07.24:436][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2020.02.22-20.07.24:994][963]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2020.02.22-20.07.25:512][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2020.02.22-20.07.26:014][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.07.34:933][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2020.02.22-20.07.36:933][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2020.02.22-20.07.39:438][666]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.07.43:501][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2020.02.22-20.07.51:170][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-20.07.51:262][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-20.07.51:270][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.07.51:270][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-20.07.51:271][ 70]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 10:07:51 AM)
+[2020.02.22-20.07.51:271][ 70]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-20.07.51:282][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011749s)
+[2020.02.22-20.07.51:283][ 70]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-20.07.51:283][ 70]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2020.02.22-20.07.51:283][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.012425s)
+[2020.02.22-20.07.51:310][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.22-20.07.51:351][ 70]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-20.07.51:366][ 70]LogInit: FAudioDevice initialized.
+[2020.02.22-20.07.51:397][ 70]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-20.07.51:400][ 70]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-15.07.51
+[2020.02.22-20.07.51:401][ 70]LogWorld: Bringing up level for play took: 0.003416
+[2020.02.22-20.07.51:414][ 70]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.831
+[2020.02.22-20.07.51:414][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.08.52:794][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.08.52:795][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.08.52:825][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-20.08.52:825][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.08.52:855][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.08.52:859][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.22-20.08.52:900][432]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2020.02.22-20.08.56:312][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2020.02.22-20.08.57:116][933]Cmd: DELETE
+[2020.02.22-20.08.57:116][933]Cmd: ACTOR DELETE
+[2020.02.22-20.08.57:119][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.22-20.08.57:146][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.22-20.08.57:146][933]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.02.22-20.08.58:617][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube67)
+[2020.02.22-20.08.59:320][189]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube50)
+[2020.02.22-20.09.00:138][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube49)
+[2020.02.22-20.09.00:581][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube48)
+[2020.02.22-20.09.01:076][387]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube51)
+[2020.02.22-20.09.01:586][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube52)
+[2020.02.22-20.09.16:258][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.22-20.09.21:515][814]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.21:516][814]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.21:888][854]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.21:888][854]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-20.09.22:202][887]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.22:202][887]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-20.09.22:546][925]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.22:546][925]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.22:828][958]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.22:828][958]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.23:107][991]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.23:107][991]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.23:369][ 22]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.23:369][ 22]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.23:723][ 61]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.23:723][ 61]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.24:000][ 91]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.24:000][ 91]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.24:236][116]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.24:236][116]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.24:485][143]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.24:485][143]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.24:707][166]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.24:707][166]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.24:949][195]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.24:949][195]LogEditorTransaction: Undo Delete Actors
+[2020.02.22-20.09.25:189][220]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.25:189][220]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.25:492][256]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.25:492][256]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.25:878][302]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.25:878][302]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.26:133][330]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.26:133][330]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.26:360][356]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.26:360][356]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.26:570][377]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.26:570][377]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.26:793][403]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.26:793][403]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.26:999][424]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.26:999][424]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-20.09.27:236][448]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.27:236][448]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.27:512][479]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.27:512][479]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.27:787][511]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.27:787][511]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.28:337][573]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.28:337][573]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.28:736][618]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.28:736][618]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.28:951][641]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.28:951][641]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.29:191][667]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.29:191][667]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.29:449][695]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.29:449][695]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.29:983][759]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.29:983][759]LogEditorTransaction: Undo Delete Actors
+[2020.02.22-20.09.30:515][819]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.30:515][819]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.22-20.09.33:170][134]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.33:170][134]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.22-20.09.33:689][194]Cmd: TRANSACTION UNDO
+[2020.02.22-20.09.33:689][194]LogEditorTransaction: Undo Move Actors
+[2020.02.22-20.09.48:579][967]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.09.48:634][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-20.09.51:989][365]Cmd: EDIT COPY
+[2020.02.22-20.09.52:338][406]Cmd: EDIT PASTE
+[2020.02.22-20.10.02:519][616]Cmd: EDIT COPY
+[2020.02.22-20.10.02:851][653]Cmd: EDIT PASTE
+[2020.02.22-20.10.19:286][612]Cmd: EDIT COPY
+[2020.02.22-20.10.19:646][654]Cmd: EDIT PASTE
+[2020.02.22-20.10.24:492][230]Cmd: EDIT COPY
+[2020.02.22-20.10.24:820][269]Cmd: EDIT PASTE
+[2020.02.22-20.10.31:952][118]Cmd: EDIT PASTE
+[2020.02.22-20.10.38:203][861]Cmd: EDIT COPY
+[2020.02.22-20.10.38:588][906]Cmd: EDIT PASTE
+[2020.02.22-20.11.00:387][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-20.11.00:487][514]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-20.11.00:495][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.11.00:495][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-20.11.00:495][514]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 10:11:00 AM)
+[2020.02.22-20.11.00:496][514]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-20.11.00:508][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012222s)
+[2020.02.22-20.11.00:508][514]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-20.11.00:509][514]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2020.02.22-20.11.00:509][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.012958s)
+[2020.02.22-20.11.00:543][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.22-20.11.00:582][514]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-20.11.00:595][514]LogInit: FAudioDevice initialized.
+[2020.02.22-20.11.00:622][514]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-20.11.00:625][514]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-15.11.00
+[2020.02.22-20.11.00:626][514]LogWorld: Bringing up level for play took: 0.003356
+[2020.02.22-20.11.00:638][514]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.055
+[2020.02.22-20.11.00:638][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.11.12:487][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.11.12:487][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.11.12:515][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-20.11.12:515][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.11.12:546][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.11.12:549][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.22-20.11.12:592][937]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2020.02.22-20.11.26:785][636]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK5)
+[2020.02.22-20.11.30:241][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK2)
+[2020.02.22-20.11.33:519][433]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK3)
+[2020.02.22-20.11.40:830][300]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK3)
+[2020.02.22-20.11.46:694][998]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK)
+[2020.02.22-20.11.50:686][472]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK4)
+[2020.02.22-20.11.57:465][280]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK7)
+[2020.02.22-20.12.05:945][289]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK8)
+[2020.02.22-20.12.14:184][271]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK7)
+[2020.02.22-20.12.21:588][152]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK6)
+[2020.02.22-20.12.27:621][869]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK9)
+[2020.02.22-20.12.45:890][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK13)
+[2020.02.22-20.12.50:152][560]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK12)
+[2020.02.22-20.12.55:536][200]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK11)
+[2020.02.22-20.13.01:047][853]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK10)
+[2020.02.22-20.13.23:421][530]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK14)
+[2020.02.22-20.13.29:448][248]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK15)
+[2020.02.22-20.13.34:068][797]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-20.13.37:300][169]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK17)
+[2020.02.22-20.13.40:277][521]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK18)
+[2020.02.22-20.13.42:913][832]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK16)
+[2020.02.22-20.13.48:215][463]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK19)
+[2020.02.22-20.13.56:716][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-20.13.56:807][485]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-20.13.56:815][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.13.56:815][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-20.13.56:815][485]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 10:13:56 AM)
+[2020.02.22-20.13.56:815][485]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-20.13.56:828][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012157s)
+[2020.02.22-20.13.56:828][485]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-20.13.56:828][485]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2020.02.22-20.13.56:828][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.012865s)
+[2020.02.22-20.13.56:868][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.22-20.13.56:907][485]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-20.13.56:919][485]LogInit: FAudioDevice initialized.
+[2020.02.22-20.13.56:947][485]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-20.13.56:951][485]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-15.13.56
+[2020.02.22-20.13.56:951][485]LogWorld: Bringing up level for play took: 0.003323
+[2020.02.22-20.13.56:964][485]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.381
+[2020.02.22-20.13.56:964][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.14.32:316][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.14.32:316][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.14.32:347][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-20.14.32:347][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-20.14.32:377][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-20.14.32:381][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.22-20.14.32:417][727]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2020.02.22-20.14.47:471][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-20.14.47:622][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.02.22-20.14.47:890][546]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room9E74F9264A218CB6904F0A97E209D88C.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap'
+[2020.02.22-20.14.49:432][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
