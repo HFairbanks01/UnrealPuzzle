@@ -1,0 +1,1263 @@
+﻿Log file open, 02/22/20 10:10:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PuzzleBox
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169125
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=MegaDaaze -epicuserid=72517459c05f4a93bd1c40b4bcd6281d -epiclocale=en
+LogInit: Base Directory: E:/Level Design/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.22-15.10.19:532][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.22-15.10.19:533][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:533][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:537][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:537][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-15.10.19:537][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-15.10.19:537][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-15.10.19:538][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-15.10.19:539][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-15.10.19:539][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-15.10.19:539][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.22-15.10.19:546][  0]LogHAL: Display: Platform has ~ 16 GB [17100492800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.22-15.10.19:546][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.22-15.10.19:546][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.22-15.10.19:546][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.22-15.10.19:547][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.22-15.10.19:548][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.22-15.10.19:548][  0]LogInit: Computer: DESKTOP-G0762KE
+[2020.02.22-15.10.19:548][  0]LogInit: User: David
+[2020.02.22-15.10.19:548][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.22-15.10.19:548][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.22-15.10.19:548][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.22-15.10.19:548][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.22-15.10.19:548][  0]LogMemory: Process Physical Memory: 96.45 MB used, 96.46 MB peak
+[2020.02.22-15.10.19:548][  0]LogMemory: Process Virtual Memory: 84.05 MB used, 84.05 MB peak
+[2020.02.22-15.10.19:548][  0]LogMemory: Physical Memory: 9375.71 MB used,  6932.59 MB free, 16308.30 MB total
+[2020.02.22-15.10.19:548][  0]LogMemory: Virtual Memory: 4624.87 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.02.22-15.10.19:568][  0]LogInit: Using OS detected language (en-US).
+[2020.02.22-15.10.19:568][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.22-15.10.19:569][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.22-15.10.19:714][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.22-15.10.19:746][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.22-15.10.19:746][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.22-15.10.19:902][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-15.10.19:902][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.22-15.10.19:955][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.02.22-15.10.19:955][  0]LogD3D11RHI:       4043/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.22-15.10.19:957][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.22-15.10.19:957][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.22-15.10.19:958][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.22-15.10.19:964][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.22-15.10.19:964][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.22-15.10.19:964][  0]LogWindows: EnumDisplayDevices:
+[2020.02.22-15.10.19:964][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.02.22-15.10.19:965][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.02.22-15.10.19:965][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.02.22-15.10.19:965][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.02.22-15.10.19:965][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.22-15.10.19:965][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.02.22-15.10.19:966][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.22-15.10.19:966][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.22-15.10.19:966][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.02.22-15.10.19:998][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.22-15.10.20:001][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.22-15.10.20:001][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.22-15.10.20:001][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.22-15.10.20:009][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.22-15.10.20:388][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.22-15.10.20:400][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.22-15.10.20:412][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.22-15.10.20:423][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.22-15.10.20:435][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.22-15.10.20:447][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.22-15.10.20:459][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.22-15.10.20:471][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.22-15.10.20:477][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.22-15.10.20:549][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.22-15.10.20:550][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.22-15.10.20:596][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.22-15.10.20:597][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.22-15.10.20:618][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.22-15.10.20:618][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.22-15.10.20:629][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.22-15.10.20:640][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.22-15.10.20:651][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.22-15.10.20:663][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.22-15.10.20:701][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.22-15.10.20:701][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.22-15.10.20:701][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.22-15.10.20:708][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.22-15.10.20:745][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Intermediate/Shaders/WorkingDirectory/14000/).
+[2020.02.22-15.10.20:745][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/David/AppData/Local/Temp/UnrealShaderWorkingDir/AD98C0994A4682B31FDB059E1BF81619/'.
+[2020.02.22-15.10.20:747][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.22-15.10.20:747][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.22-15.10.20:747][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.22-15.10.21:224][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-15.10.21:266][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.22-15.10.21:278][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.22-15.10.21:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.22-15.10.21:278][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.22-15.10.21:290][  0]LogDerivedDataCache: Using Local data cache path C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.22-15.10.21:290][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.22-15.10.21:290][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.22-15.10.21:309][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.22-15.10.21:310][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.22-15.10.21:311][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.22-15.10.21:393][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2020.02.22-15.10.21:672][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.22-15.10.21:782][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.22-15.10.21:782][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.22-15.10.21:782][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.22-15.10.21:782][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.22-15.10.21:782][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.22-15.10.21:795][  0]LogNetVersion: PuzzleBox 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1860270735)
+[2020.02.22-15.10.22:116][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.024775 seconds
+[2020.02.22-15.10.22:121][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.22-15.10.22:121][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.22-15.10.22:121][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.22-15.10.22:867][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.22-15.10.22:879][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.22-15.10.22:977][  0]SourceControl: Source control is disabled
+[2020.02.22-15.10.22:977][  0]SourceControl: Source control is disabled
+[2020.02.22-15.10.22:978][  0]SourceControl: Source control is disabled
+[2020.02.22-15.10.22:979][  0]SourceControl: Source control is disabled
+[2020.02.22-15.10.23:037][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.22-15.10.23:151][  0]LogOcInput: OculusInput pre-init called
+[2020.02.22-15.10.23:811][  0]LogEngine: Initializing Engine...
+[2020.02.22-15.10.23:812][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.22-15.10.23:813][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.22-15.10.24:001][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.22-15.10.24:011][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.22-15.10.24:064][  0]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.10.24:086][  0]LogInit: FAudioDevice initialized.
+[2020.02.22-15.10.24:087][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.22-15.10.24:276][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.22-15.10.24:277][  0]LogInit: Texture streaming: Enabled
+[2020.02.22-15.10.24:293][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.22-15.10.24:309][  0]LogInit: Transaction tracking system initialized
+[2020.02.22-15.10.24:326][  0]BlueprintLog: New page: Editor Load
+[2020.02.22-15.10.24:389][  0]LocalizationService: Localization service is disabled
+[2020.02.22-15.10.24:480][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2020.02.22-15.10.24:480][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2020.02.22-15.10.24:480][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.02.22-15.10.24:628][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/' took 0.01s
+[2020.02.22-15.10.24:628][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.22-15.10.24:628][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.22-15.10.24:765][  0]SourceControl: Source control is disabled
+[2020.02.22-15.10.24:765][  0]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-15.10.24:766][  0]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.24:768][  0]MapCheck: New page: Map Check
+[2020.02.22-15.10.24:768][  0]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.24:789][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.22-15.10.24:878][  0]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.22-15.10.24:882][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-15.10.24:905][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.22-15.10.24:905][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-15.10.24:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2020.02.22-15.10.24:906][  0]LogFileHelpers: Loading map 'TestRoom' took 0.140
+[2020.02.22-15.10.25:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.10.25:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.10.25:014][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.10.25:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.10.25:025][  0]LogCollectionManager: Loaded 0 collections in 0.001458 seconds
+[2020.02.22-15.10.25:040][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Collections/' took 0.01s
+[2020.02.22-15.10.25:040][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/Developers/David/Collections/' took 0.00s
+[2020.02.22-15.10.25:040][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/Collections/' took 0.00s
+[2020.02.22-15.10.25:040][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.22-15.10.25:047][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2020.02.22-15.10.25:052][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-15.10.25:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.22-15.10.25:102][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-15.10.25:106][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.22-15.10.25:119][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.22-15.10.25:120][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.22-15.10.25:124][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.22-15.10.25:176][  0]LogRenderer: Reallocating scene render targets to support 1140x620 Format 10 NumSamples 1 (Frame:1).
+[2020.02.22-15.10.25:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.22-15.10.25:282][  0]LogLoad: (Engine Initialization) Total time: 7.50 seconds
+[2020.02.22-15.10.25:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.22-15.10.25:309][  0]LogAssetRegistry: Asset discovery search completed in 3.9376 seconds
+[2020.02.22-15.10.25:310][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.22-15.10.25:310][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2020.02.22-15.10.25:312][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.22-15.10.25:345][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-15.10.26:880][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.10.27:065][204]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-15.10.27:085][204]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.10.27:089][204]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room
+[2020.02.22-15.10.27:110][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.22-15.10.27:111][204]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-15.10.27:111][204]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.27:111][204]LoadErrors: New page: Loading map: DK_Room.umap
+[2020.02.22-15.10.27:119][204]MapCheck: New page: Map Check
+[2020.02.22-15.10.27:119][204]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.27:141][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.22-15.10.27:143][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-15.10.27:165][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.22-15.10.27:178][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-15.10.27:178][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2020.02.22-15.10.27:178][204]LogFileHelpers: Loading map 'DK_Room' took 0.067
+[2020.02.22-15.10.28:842][400]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room
+[2020.02.22-15.10.28:861][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.02.22-15.10.28:862][400]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.22-15.10.28:862][400]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.28:863][400]LoadErrors: New page: Loading map: DK_Room.umap
+[2020.02.22-15.10.28:863][400]MapCheck: New page: Map Check
+[2020.02.22-15.10.28:863][400]LightingResults: New page: Lighting Build
+[2020.02.22-15.10.28:885][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.22-15.10.28:900][400]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.10.28:902][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.22-15.10.28:925][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.22-15.10.28:938][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.22-15.10.28:938][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2020.02.22-15.10.28:939][400]LogFileHelpers: Loading map 'DK_Room' took 0.077
+[2020.02.22-15.10.41:281][868]Cmd: TRANSACTION UNDO
+[2020.02.22-15.10.41:281][868]LogEditorTransaction: Undo Move Actors
+[2020.02.22-15.10.57:736][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-15.11.04:882][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.11.47:875][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.12.26:119][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.12.36:235][382]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-15.14.57:158][716]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.22-15.16.27:667][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.16.27:857][293]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_WallEnemy1_DK.BP_WallEnemy1_DK
+[2020.02.22-15.16.28:046][293]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.22-15.18.05:573][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.22-15.18.06:958][818]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.22-15.18.06:962][818]LogSlate: Window 'BP_WallEnemy1_DK' being destroyed
+[2020.02.22-15.18.07:021][818]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PuzzleBox/DavidKingsley/Core/BP_WallEnemy1_DK.BP_WallEnemy1_DK
+[2020.02.22-15.18.08:147][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.22-15.18.11:823][ 82]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-15.18.23:624][489]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.BP_Enemy1_DK
+[2020.02.22-15.18.43:812][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.18.53:598][981]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.22-15.19.28:951][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.19.32:347][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.20.06:419][454]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.22-15.20.23:697][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.20.45:091][230]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-15.20.45:287][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.22-15.21.26:597][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.02.22-15.21.26:784][ 27]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto127A3E06642785DD5F2653CB61EB8EB8F.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto1.umap'
+[2020.02.22-15.21.26:786][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.220
+[2020.02.22-15.21.26:786][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2020.02.22-15.21.26:787][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK] ([1] browsable assets)...
+[2020.02.22-15.21.26:797][ 27]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.BP_Enemy1_DK]
+[2020.02.22-15.21.26:797][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK]
+[2020.02.22-15.21.26:812][ 27]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Enemy1_DK_Auto16325D0B74AF1A9FC0C9891BC3A3BAA42.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK_Auto1.uasset'
+[2020.02.22-15.21.26:813][ 27]LogFileHelpers: Auto-saving content packages took 0.026
+[2020.02.22-15.26.37:828][979]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-15.26.51:759][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-15.27.10:725][ 72]LogRenderer: Reallocating scene render targets to support 1140x744 Format 10 NumSamples 1 (Frame:12012).
+[2020.02.22-15.27.38:834][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.27.48:100][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.27.51:283][530]LogEditorTransaction: Undo Add Component
+[2020.02.22-15.27.52:001][596]LogEditorTransaction: Undo Add Component
+[2020.02.22-15.27.58:979][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.28.39:759][487]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-15.28.59:201][525]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.22-15.29.03:894][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.29.47:296][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.31.58:345][815]LogEditorTransaction: Undo Add Component Nodes
+[2020.02.22-15.32.43:880][507]LogSlate: Took 0.006788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.22-15.32.59:552][226]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-15.32.59:798][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.22-15.34.28:387][319]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-15.34.28:584][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.22-15.34.52:174][ 94]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-15.34.52:366][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.22-15.34.53:029][159]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Enemy1_DK544DB3044CE3654C3E1014878585FCF6.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.uasset'
+[2020.02.22-15.35.05:359][619]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.35.07:327][849]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-15.35.10:602][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.35.21:795][572]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-15.35.27:582][262]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.35.30:300][582]LogEditorViewport: Clicking on Actor (context menu): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.35.30:340][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.35.32:388][816]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.22-15.35.35:642][192]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.22-15.35.36:925][336]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.35.37:635][415]LogEditorViewport: Clicking on Actor (context menu): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.35.37:651][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.35.43:835][149]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-15.35.44:372][207]LogEditorViewport: Clicking on Actor (context menu): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-15.35.44:387][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.36.04:174][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.22-15.36.05:099][650]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.36.10:967][346]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-15.36.16:656][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.36.16:756][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.36.16:780][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.36.16:780][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.36.16:781][ 21]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:36:16 AM)
+[2020.02.22-15.36.16:793][ 21]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.36.16:798][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005266s)
+[2020.02.22-15.36.16:799][ 21]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.36.16:799][ 21]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2020.02.22-15.36.16:799][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.006032s)
+[2020.02.22-15.36.16:829][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.22-15.36.16:868][ 21]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.36.16:881][ 21]LogInit: FAudioDevice initialized.
+[2020.02.22-15.36.16:949][ 21]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.36.16:950][ 21]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.36.16
+[2020.02.22-15.36.16:965][ 21]LogWorld: Bringing up level for play took: 0.015124
+[2020.02.22-15.36.16:984][ 21]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.22-15.36.17:000][ 21]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.22-15.36.17:001][ 21]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2020.02.22-15.36.17:005][ 21]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.422
+[2020.02.22-15.36.17:005][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.36.42:614][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.36.42:615][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.36.42:644][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.36.42:644][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.36.42:681][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.36.42:702][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.22-15.36.42:717][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.22-15.36.45:579][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.36.45:745][413]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK
+[2020.02.22-15.37.03:952][598]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.22-15.37.04:810][598]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.22-15.37.17:848][970]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.37.17:851][970]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.37.18:569][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.38.23:887][958]BlueprintLog: New page: Compile BP_Person_DK
+[2020.02.22-15.38.24:114][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.02.22-15.38.25:096][ 63]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Person_DK69F5071F4DC30747FC2F10A067DC07CD.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_Person_DK.uasset'
+[2020.02.22-15.38.26:224][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.38.27:564][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.38.27:656][368]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.38.27:667][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.38.27:667][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.38.27:667][368]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:38:27 AM)
+[2020.02.22-15.38.27:667][368]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.38.27:673][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005190s)
+[2020.02.22-15.38.27:673][368]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.38.27:673][368]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2020.02.22-15.38.27:673][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005738s)
+[2020.02.22-15.38.27:712][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.22-15.38.27:749][368]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.38.27:761][368]LogInit: FAudioDevice initialized.
+[2020.02.22-15.38.27:790][368]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.38.27:791][368]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.38.27
+[2020.02.22-15.38.27:792][368]LogWorld: Bringing up level for play took: 0.001307
+[2020.02.22-15.38.27:804][368]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.779
+[2020.02.22-15.38.27:804][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.38.32:396][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.38.32:397][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.38.32:425][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.38.32:425][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.38.32:464][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.38.32:468][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.22-15.38.32:502][920]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.22-15.38.43:426][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.38.44:927][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.38.45:654][262]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.22-15.41.00:026][701]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.41.00:029][701]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.41.03:802][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.41.49:022][442]BlueprintLog: New page: Compile BP_Person_DK
+[2020.02.22-15.41.49:221][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.22-15.41.51:807][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.41.51:872][752]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.41.51:883][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.41.51:883][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.41.51:883][752]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:41:51 AM)
+[2020.02.22-15.41.51:884][752]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.41.51:889][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005252s)
+[2020.02.22-15.41.51:889][752]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.41.51:889][752]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2020.02.22-15.41.51:889][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005891s)
+[2020.02.22-15.41.51:927][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.22-15.41.51:965][752]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.41.51:978][752]LogInit: FAudioDevice initialized.
+[2020.02.22-15.41.52:006][752]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.41.52:008][752]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.41.52
+[2020.02.22-15.41.52:008][752]LogWorld: Bringing up level for play took: 0.001170
+[2020.02.22-15.41.52:021][752]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.562
+[2020.02.22-15.41.52:021][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.41.59:994][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.41.59:994][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.42.00:024][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.42.00:024][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.42.00:065][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.42.00:070][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.22-15.42.00:097][707]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.22-15.42.15:064][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.42.30:727][759]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Person_DKA1521B1A4EA7C987D9B2F284290406AF.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_Person_DK.uasset'
+[2020.02.22-15.42.31:596][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.42.31:714][875]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.42.31:724][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.42.31:724][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.42.31:724][875]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:42:31 AM)
+[2020.02.22-15.42.31:724][875]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.42.31:730][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005196s)
+[2020.02.22-15.42.31:730][875]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.42.31:730][875]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2020.02.22-15.42.31:730][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005758s)
+[2020.02.22-15.42.31:766][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.22-15.42.31:804][875]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.42.31:816][875]LogInit: FAudioDevice initialized.
+[2020.02.22-15.42.31:843][875]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.42.31:845][875]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.42.31
+[2020.02.22-15.42.31:845][875]LogWorld: Bringing up level for play took: 0.001331
+[2020.02.22-15.42.31:858][875]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.725
+[2020.02.22-15.42.31:858][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.42.35:009][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.42.45:134][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.42.45:134][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.42.45:162][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.42.45:162][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.42.45:202][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.42.45:206][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.22-15.42.45:240][378]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.22-15.42.49:874][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.42.54:349][359]BlueprintLog: New page: Compile BP_Person_DK
+[2020.02.22-15.42.54:543][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.22-15.42.56:182][549]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-15.42.56:185][549]LogSlate: Window 'BP_Person_DK' being destroyed
+[2020.02.22-15.42.56:247][549]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-15.42.57:535][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.42.59:166][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-15.42.59:879][891]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.22-15.43.45:081][308]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.43.45:083][308]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.22-15.43.52:153][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.44.18:563][978]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.44.24:733][656]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.BP_Enemy1_DK
+[2020.02.22-15.44.32:506][543]LogSlate: Window 'BP_Enemy1_DK' being destroyed
+[2020.02.22-15.44.32:509][543]LogSlate: Window 'BP_Enemy1_DK' being destroyed
+[2020.02.22-15.44.32:568][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-15.44.42:936][650]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.02.22-15.44.48:039][258]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK)
+[2020.02.22-15.44.49:238][396]Cmd: DELETE
+[2020.02.22-15.44.49:238][396]Cmd: ACTOR DELETE
+[2020.02.22-15.44.49:274][396]LogEditorActor: Deleted Actor: BP_Enemy1_DK_C
+[2020.02.22-15.44.49:333][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.22-15.44.49:334][396]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.02.22-15.44.52:963][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.44.54:850][ 56]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK.BP_Enemy2_DK
+[2020.02.22-15.45.34:905][780]BlueprintLog: New page: Compile BP_Enemy2_DK
+[2020.02.22-15.45.35:036][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.22-15.45.48:535][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.45.48:618][398]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.45.48:631][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.45.48:631][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.45.48:631][398]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:45:48 AM)
+[2020.02.22-15.45.48:631][398]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.45.48:636][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005413s)
+[2020.02.22-15.45.48:637][398]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.45.48:637][398]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2020.02.22-15.45.48:637][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005990s)
+[2020.02.22-15.45.48:665][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.02.22-15.45.48:703][398]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.45.48:715][398]LogInit: FAudioDevice initialized.
+[2020.02.22-15.45.48:743][398]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.45.48:744][398]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.45.48
+[2020.02.22-15.45.48:761][398]LogWorld: Bringing up level for play took: 0.018008
+[2020.02.22-15.45.48:774][398]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.191
+[2020.02.22-15.45.48:774][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.46.29:725][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.46.29:725][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.46.29:756][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.46.29:756][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.46.29:788][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.46.29:792][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.22-15.46.29:826][302]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.22-15.46.41:251][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.46.41:398][688]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.47.25:102][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.22-15.47.25:293][870]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto2E90D6F3C427842840B2C21B969444070.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto2.umap'
+[2020.02.22-15.47.25:295][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.224
+[2020.02.22-15.47.25:295][870]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
+[2020.02.22-15.47.25:296][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK] ([1] browsable assets)...
+[2020.02.22-15.47.25:323][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK]
+[2020.02.22-15.47.25:323][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK]
+[2020.02.22-15.47.25:351][870]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Person_DK_Auto270C1C51A430105A8FF80D3B548383B1D.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK_Auto2.uasset'
+[2020.02.22-15.47.25:352][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK] ([1] browsable assets)...
+[2020.02.22-15.47.25:377][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK.BP_Enemy2_DK]
+[2020.02.22-15.47.25:377][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK]
+[2020.02.22-15.47.25:405][870]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Enemy2_DK_Auto24FDB5D56408BBFF053F0B0AFCF3AE1DD.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK_Auto2.uasset'
+[2020.02.22-15.47.25:406][870]LogFileHelpers: Auto-saving content packages took 0.109
+[2020.02.22-15.48.19:644][210]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.48.19:648][210]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.48.19:707][210]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-15.48.21:127][373]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK.BP_Enemy2_DK
+[2020.02.22-15.50.31:562][ 40]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.51.12:008][884]LogRenderer: Reallocating scene render targets to support 1188x744 Format 10 NumSamples 1 (Frame:165594).
+[2020.02.22-15.51.21:258][203]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.51.21:262][203]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.51.21:328][203]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-15.51.23:044][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.52.41:022][700]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.52.41:026][700]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.53.19:986][526]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK
+[2020.02.22-15.53.38:004][604]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-15.53.51:589][146]BlueprintLog: New page: Compile BP_Person_DK
+[2020.02.22-15.53.51:741][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.22-15.53.55:882][630]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.53.55:894][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.53.55:894][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.53.55:894][630]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:53:55 AM)
+[2020.02.22-15.53.55:894][630]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.53.55:899][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2020.02.22-15.53.55:900][630]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.53.55:900][630]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2020.02.22-15.53.55:900][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005919s)
+[2020.02.22-15.53.55:929][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.22-15.53.55:968][630]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.53.55:982][630]LogInit: FAudioDevice initialized.
+[2020.02.22-15.53.56:011][630]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.53.56:012][630]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.53.56
+[2020.02.22-15.53.56:012][630]LogWorld: Bringing up level for play took: 0.001213
+[2020.02.22-15.53.56:025][630]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.558
+[2020.02.22-15.53.56:025][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.04:640][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.04:641][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.54.04:668][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.54.04:668][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.04:698][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.54.04:702][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.22-15.54.04:745][665]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.22-15.54.06:773][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.07:452][989]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.54.13:570][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.21:448][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.30:896][589]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.54.30:899][589]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-15.54.30:965][589]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-15.54.42:198][922]Cmd: DELETE
+[2020.02.22-15.54.42:198][922]Cmd: ACTOR DELETE
+[2020.02.22-15.54.42:200][922]LogEditorActor: Deleted Actor: BP_Bullet_DK_C
+[2020.02.22-15.54.42:230][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.22-15.54.42:230][922]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.22-15.54.43:152][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.43:243][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.54.43:253][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.43:253][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.54.43:253][ 44]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:54:43 AM)
+[2020.02.22-15.54.43:253][ 44]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.54.43:258][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005239s)
+[2020.02.22-15.54.43:259][ 44]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.54.43:259][ 44]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2020.02.22-15.54.43:259][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005810s)
+[2020.02.22-15.54.43:283][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.22-15.54.43:321][ 44]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.54.43:334][ 44]LogInit: FAudioDevice initialized.
+[2020.02.22-15.54.43:358][ 44]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.54.43:360][ 44]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.54.43
+[2020.02.22-15.54.43:360][ 44]LogWorld: Bringing up level for play took: 0.001171
+[2020.02.22-15.54.43:372][ 44]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.789
+[2020.02.22-15.54.43:372][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.46:955][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.46:955][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.54.46:982][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.54.46:982][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.47:010][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.54.47:014][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.22-15.54.47:055][476]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.22-15.54.48:489][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.54:205][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.54.54:358][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.22-15.54.54:534][344]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room1008A58D43F325DC3978DC90CE7FEF7A.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap'
+[2020.02.22-15.54.56:042][520]Cmd: DELETE
+[2020.02.22-15.54.56:042][520]Cmd: ACTOR DELETE
+[2020.02.22-15.54.56:044][520]LogEditorActor: Deleted Actor: BP_Bullet_DK_C
+[2020.02.22-15.54.56:075][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.22-15.54.56:075][520]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.22-15.54.57:566][699]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.54.57:583][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.54.57:583][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.54.57:583][699]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:54:57 AM)
+[2020.02.22-15.54.57:583][699]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.54.57:588][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005303s)
+[2020.02.22-15.54.57:588][699]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.54.57:589][699]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2020.02.22-15.54.57:589][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005868s)
+[2020.02.22-15.54.57:614][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.22-15.54.57:652][699]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.54.57:665][699]LogInit: FAudioDevice initialized.
+[2020.02.22-15.54.57:694][699]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.54.57:695][699]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.54.57
+[2020.02.22-15.54.57:695][699]LogWorld: Bringing up level for play took: 0.001231
+[2020.02.22-15.54.57:708][699]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 1.125
+[2020.02.22-15.54.57:708][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.55.00:273][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.55.00:274][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.55.00:305][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.55.00:305][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.55.00:332][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.55.00:335][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.22-15.55.00:377][  9]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.22-15.55.02:138][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.55.06:620][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-15.55.06:775][772]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-15.55.22:416][487]BlueprintLog: New page: Compile BP_Bullet_DK
+[2020.02.22-15.55.22:548][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.22-15.55.25:808][864]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-15.55.25:818][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.55.25:818][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-15.55.25:818][864]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 5:55:25 AM)
+[2020.02.22-15.55.25:818][864]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-15.55.25:824][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005191s)
+[2020.02.22-15.55.25:824][864]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-15.55.25:824][864]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2020.02.22-15.55.25:824][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.005817s)
+[2020.02.22-15.55.25:851][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.22-15.55.25:889][864]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-15.55.25:902][864]LogInit: FAudioDevice initialized.
+[2020.02.22-15.55.25:929][864]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-15.55.25:931][864]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-10.55.25
+[2020.02.22-15.55.25:931][864]LogWorld: Bringing up level for play took: 0.001194
+[2020.02.22-15.55.25:944][864]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.639
+[2020.02.22-15.55.25:944][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.56.20:939][456]LogActor: Warning: BP_Bullet_DK_C_6 is outside the world bounds!
+[2020.02.22-15.56.22:455][638]LogActor: Warning: BP_Bullet_DK_C_10 is outside the world bounds!
+[2020.02.22-15.56.30:424][594]LogActor: Warning: BP_Bullet_DK_C_27 is outside the world bounds!
+[2020.02.22-15.56.30:465][599]LogActor: Warning: BP_Bullet_C_18 is outside the world bounds!
+[2020.02.22-15.56.31:282][697]LogActor: Warning: BP_Bullet_DK_C_29 is outside the world bounds!
+[2020.02.22-15.56.31:657][742]LogActor: Warning: BP_Bullet_DK_C_28 is outside the world bounds!
+[2020.02.22-15.56.32:107][796]LogActor: Warning: BP_Bullet_DK_C_31 is outside the world bounds!
+[2020.02.22-15.56.33:232][931]LogActor: Warning: BP_Bullet_DK_C_33 is outside the world bounds!
+[2020.02.22-15.56.33:899][ 11]LogActor: Warning: BP_Bullet_C_23 is outside the world bounds!
+[2020.02.22-15.56.34:557][ 90]LogActor: Warning: BP_Bullet_DK_C_35 is outside the world bounds!
+[2020.02.22-15.56.34:966][139]LogActor: Warning: BP_Bullet_DK_C_34 is outside the world bounds!
+[2020.02.22-15.56.35:574][212]LogActor: Warning: BP_Bullet_DK_C_37 is outside the world bounds!
+[2020.02.22-15.56.36:507][324]LogActor: Warning: BP_Bullet_DK_C_38 is outside the world bounds!
+[2020.02.22-15.56.36:574][332]LogActor: Warning: BP_Bullet_DK_C_39 is outside the world bounds!
+[2020.02.22-15.56.37:508][444]LogActor: Warning: BP_Bullet_DK_C_41 is outside the world bounds!
+[2020.02.22-15.56.38:658][582]LogActor: Warning: BP_Bullet_DK_C_20 is outside the world bounds!
+[2020.02.22-15.56.44:555][287]LogActor: Warning: BP_Bullet_DK_C_53 is outside the world bounds!
+[2020.02.22-15.56.47:056][587]LogActor: Warning: BP_Bullet_DK_C_56 is outside the world bounds!
+[2020.02.22-15.56.50:840][ 41]LogActor: Warning: BP_Bullet_DK_C_57 is outside the world bounds!
+[2020.02.22-15.57.00:550][206]LogActor: Warning: BP_Bullet_DK_C_80 is outside the world bounds!
+[2020.02.22-15.57.02:208][405]LogActor: Warning: BP_Bullet_DK_C_84 is outside the world bounds!
+[2020.02.22-15.57.08:126][115]LogActor: Warning: BP_Bullet_DK_C_95 is outside the world bounds!
+[2020.02.22-15.57.10:284][374]LogActor: Warning: BP_Bullet_DK_C_99 is outside the world bounds!
+[2020.02.22-15.57.12:126][595]LogActor: Warning: BP_Bullet_DK_C_103 is outside the world bounds!
+[2020.02.22-15.57.15:119][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.57.15:119][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.57.15:147][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-15.57.15:147][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-15.57.15:177][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-15.57.15:181][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.22-15.57.15:222][958]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.22-16.06.46:797][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.02.22-16.06.46:963][507]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto317D880C34F7247D05A94E28975D23244.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto3.umap'
+[2020.02.22-16.06.46:965][507]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.197
+[2020.02.22-16.06.46:965][507]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2020.02.22-16.06.46:966][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK] ([1] browsable assets)...
+[2020.02.22-16.06.46:989][507]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK]
+[2020.02.22-16.06.46:989][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK]
+[2020.02.22-16.06.47:003][507]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Bullet_DK_Auto3CE7B5A4F451E70BE695497A27FC0FBBB.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK_Auto3.uasset'
+[2020.02.22-16.06.47:004][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK] ([1] browsable assets)...
+[2020.02.22-16.06.47:028][507]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK.BP_Person_DK]
+[2020.02.22-16.06.47:028][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK]
+[2020.02.22-16.06.47:055][507]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Person_DK_Auto3F5B069154AC43E85B28395BCAE3560A6.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Person_DK_Auto3.uasset'
+[2020.02.22-16.06.47:056][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK] ([1] browsable assets)...
+[2020.02.22-16.06.47:056][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK]
+[2020.02.22-16.06.47:074][507]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Enemy2_DK_Auto3A9449CFA4B25ABF4F103ED86C8B9B3CD.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy2_DK_Auto3.uasset'
+[2020.02.22-16.06.47:075][507]LogFileHelpers: Auto-saving content packages took 0.109
+[2020.02.22-16.07.11:148][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.22-16.07.13:408][790]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-16.07.13:413][790]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-16.07.14:524][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.07.27:906][445]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-16.07.27:947][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.22-16.07.51:268][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.07.54:649][424]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-16.08.09:283][148]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK
+[2020.02.22-16.08.23:929][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.08.24:229][690]BlueprintLog: New page: Compile BP_PushableBlock_DK
+[2020.02.22-16.08.24:359][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.02.22-16.08.44:151][996]LogEditorViewport: Clicking on Actor (LMB): BP_PushableBlock_DK_C (BP_PushableBlock_DK)
+[2020.02.22-16.08.57:672][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.09.01:496][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_PushableBlock_DK_C (BP_PushableBlock_DK)
+[2020.02.22-16.16.47:293][884]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.02.22-16.16.47:619][884]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto41CA56EA940D653AC63AE368B3B1AF292.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto4.umap'
+[2020.02.22-16.16.47:623][884]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.374
+[2020.02.22-16.16.47:623][884]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.374
+[2020.02.22-16.16.47:632][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK] ([1] browsable assets)...
+[2020.02.22-16.16.47:649][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK]
+[2020.02.22-16.16.47:649][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK]
+[2020.02.22-16.16.47:669][884]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushableBlock_DK_Auto4FD6CE86E4F7DD2EDD9A98A99FF4DECC2.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK_Auto4.uasset'
+[2020.02.22-16.16.47:671][884]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.02.22-16.26.01:025][359]LogEditorViewport: Clicking on Actor (LMB): BP_PushableBlock_DK_C (BP_PushableBlock_DK)
+[2020.02.22-16.26.11:275][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.26.41:116][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.26.41:198][771]BlueprintLog: New page: Compile BP_PushableBlock_DK
+[2020.02.22-16.26.41:362][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.22-16.26.55:352][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.27.00:491][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.27.15:929][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.27.16:011][588]BlueprintLog: New page: Compile BP_PushableBlock_DK
+[2020.02.22-16.27.16:197][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.22-16.27.29:467][139]Cmd: EDCALLBACK SURFPROPS
+[2020.02.22-16.27.37:487][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_Bullet_DK_C (BP_Bullet_DK)
+[2020.02.22-16.27.38:672][236]Cmd: DELETE
+[2020.02.22-16.27.38:672][236]Cmd: ACTOR DELETE
+[2020.02.22-16.27.38:675][236]LogEditorActor: Deleted Actor: BP_Bullet_DK_C
+[2020.02.22-16.27.38:702][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.22-16.27.38:703][236]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.22-16.28.14:106][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.22-16.28.14:284][724]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto5D0651A2E4616C334C8046C94D5C1E53F.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto5.umap'
+[2020.02.22-16.28.14:286][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 0.207
+[2020.02.22-16.28.14:286][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.207
+[2020.02.22-16.28.14:287][724]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK] ([1] browsable assets)...
+[2020.02.22-16.28.14:301][724]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK]
+[2020.02.22-16.28.14:301][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK]
+[2020.02.22-16.28.14:314][724]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushableBlock_DK_Auto5EA3DAABF41866BDF7C1FE381848F7830.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK_Auto5.uasset'
+[2020.02.22-16.28.14:315][724]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.02.22-16.29.47:115][861]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy2_DK_C (BP_Enemy2_DK)
+[2020.02.22-16.29.53:078][558]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy1_DK_C (BP_Enemy1_DK2)
+[2020.02.22-16.30.00:025][368]LogEditorViewport: Clicking on Actor (LMB): BP_PushableBlock_DK_C (BP_PushableBlock_DK)
+[2020.02.22-16.30.04:145][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.30.10:590][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-16.30.10:685][509]BlueprintLog: New page: Compile BP_PushableBlock_DK
+[2020.02.22-16.30.10:843][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.22-16.30.18:362][363]LogEditorViewport: Clicking on Actor (LMB): BP_PushableBlock_DK_C (BP_PushableBlock_DK)
+[2020.02.22-16.38.49:194][952]LogUObjectHash: Compacting FUObjectHashTables data took 370.11ms
+[2020.02.22-16.40.10:364][952]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/DK_Room_Auto645E6F8774B64C44D71347181ADB6F1CB.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Maps/DK_Room_Auto6.umap'
+[2020.02.22-16.40.15:110][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room' took 103.649
+[2020.02.22-16.40.15:110][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 103.649
+[2020.02.22-16.40.26:988][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK] ([1] browsable assets)...
+[2020.02.22-16.40.27:009][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK.BP_PushableBlock_DK]
+[2020.02.22-16.40.27:114][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK]
+[2020.02.22-16.40.57:877][952]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushableBlock_DK_Auto6B95A318F48213C86DB142B807C94BDAD.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Autosaves/Game/PuzzleBox/DavidKingsley/Core/BP_PushableBlock_DK_Auto6.uasset'
+[2020.02.22-16.40.57:878][952]LogFileHelpers: Auto-saving content packages took 36.830
+[2020.02.22-16.41.13:306][953]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.22-16.41.13:306][953]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.22-16.41.37:058][954]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.752 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.22-16.44.26:866][978]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.955 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.22-16.59.25:473][390]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.900 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.22-17.49.16:040][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-17.49.19:481][206]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-17.49.36:585][112]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-17.49.36:591][112]LogSlate: Window 'BP_Bullet_DK' being destroyed
+[2020.02.22-17.49.36:727][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.22-17.49.50:464][372]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.22-17.50.03:905][946]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet1_DK.BP_Bullet1_DK
+[2020.02.22-17.50.30:535][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.BP_Enemy1_DK
+[2020.02.22-17.50.32:602][843]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-17.50.39:115][463]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-17.50.39:144][463]LogBlueprint: Error: [Compiler BP_Enemy1_DK] This blueprint (self) is not a BP_Bullet_DK_C, therefore ' Target ' must have a connection.
+[2020.02.22-17.50.39:146][463]LogBlueprint: Error: [Compiler BP_Enemy1_DK] Variable node  Get Sphere  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.22-17.50.39:318][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.02.22-17.50.39:326][463]LogBlueprint: Warning: [Compiler BP_Enemy1_DK] [9621.55] Compile of BP_Enemy1_DK failed. 2 Fatal Issue(s) 0 Warning(s) [in 211 ms] (/Game/PuzzleBox/DavidKingsley/Core/BP_Enemy1_DK.BP_Enemy1_DK)
+[2020.02.22-17.50.54:025][912]LogEditorTransaction: Undo Create Pin Link
+[2020.02.22-17.50.54:553][954]LogEditorTransaction: Undo Move Node
+[2020.02.22-17.50.55:365][ 36]LogEditorTransaction: Undo Change Class Pin Value
+[2020.02.22-17.51.21:511][767]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.22-17.52.37:377][805]LogEditorTransaction: Undo Move Node
+[2020.02.22-17.52.37:983][856]LogEditorTransaction: Undo Delete current selection
+[2020.02.22-17.52.51:290][152]BlueprintLog: New page: Compile BP_Enemy1_DK
+[2020.02.22-17.52.51:444][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.22-17.52.56:285][674]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-17.52.56:304][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.52.56:304][674]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.22-17.52.56:305][674]LogPlayLevel: [PlayLevel] Compiling BP_Bullet1_DK before play...
+[2020.02.22-17.52.56:451][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.22-17.52.56:451][674]LogPlayLevel: PlayLevel: Blueprint regeneration took 146 ms (1 blueprints)
+[2020.02.22-17.52.56:451][674]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 7:52:56 AM)
+[2020.02.22-17.52.56:451][674]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-17.52.56:460][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008898s)
+[2020.02.22-17.52.56:460][674]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-17.52.56:461][674]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2020.02.22-17.52.56:461][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.009668s)
+[2020.02.22-17.52.56:489][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.22-17.52.56:532][674]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-17.52.56:558][674]LogInit: FAudioDevice initialized.
+[2020.02.22-17.52.56:593][674]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-17.52.56:595][674]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-12.52.56
+[2020.02.22-17.52.56:603][674]LogWorld: Bringing up level for play took: 0.009545
+[2020.02.22-17.52.56:616][674]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room 0.033
+[2020.02.22-17.52.56:617][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.01:276][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.01:276][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.53.01:306][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-17.53.01:307][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.01:339][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.53.01:343][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.22-17.53.01:379][230]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.02.22-17.53.03:972][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-17.53.29:022][155]BlueprintLog: New page: Compile BP_Bullet1_DK
+[2020.02.22-17.53.29:183][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.22-17.53.31:740][445]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-17.53.31:752][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.31:752][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-17.53.31:752][445]PIE: New page: PIE session: DK_Room (Feb 22, 2020, 7:53:31 AM)
+[2020.02.22-17.53.31:752][445]LogPlayLevel: Creating play world package: /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room
+[2020.02.22-17.53.31:759][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006876s)
+[2020.02.22-17.53.31:760][445]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.22-17.53.31:760][445]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2020.02.22-17.53.31:760][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room to /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room (0.007596s)
+[2020.02.22-17.53.31:791][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.22-17.53.31:838][445]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.22-17.53.31:860][445]LogInit: FAudioDevice initialized.
+[2020.02.22-17.53.31:891][445]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.02.22-17.53.31:892][445]LogWorld: Bringing World /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room.DK_Room up for play (max tick rate 0) at 2020.02.22-12.53.31
+[2020.02.22-17.53.31:893][445]LogWorld: Bringing up level for play took: 0.001385
+[2020.02.22-17.53.31:905][445]PIE: Play in editor start time for /Game/PuzzleBox/DavidKingsley/Maps/UEDPIE_0_DK_Room -0.678
+[2020.02.22-17.53.31:905][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.34:741][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.34:741][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.53.34:769][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-17.53.34:769][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room' with GeneratedClass '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room_C' with ClassGeneratedBy '/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room'
+[2020.02.22-17.53.34:801][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-17.53.34:804][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.22-17.53.34:845][787]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.02.22-17.53.37:029][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.22-17.53.37:226][ 45]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Bullet_DK.BP_Bullet_DK
+[2020.02.22-17.54.06:322][108]LogEditorTransaction: Undo Edit Homing Acceleration Magnitude
+[2020.02.22-17.54.06:326][108]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.22-17.54.07:855][108]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.529 s
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: 
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: 
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: Stack: 
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc4291258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc37bb350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3774b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc6d7b9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc6e337 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc6e111 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:855][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfcb674d UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfca1cb2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc3a2f8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfbcf25a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfcbfb41 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc3c679 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2e4cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c55efe UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c06444 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc23d1e34 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc218d84d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc2168389 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc24a47a3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc248cdf8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc244be94 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc2492aea UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc214aa78 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc2177756 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc219356d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3774fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3796366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3782f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc37dac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc381ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc37b929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc2169188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c071ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c3743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3f5769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbc3f46e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2bd1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c38dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffbe2c2f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc1d9bb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc1d9aef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc1d9bd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc1d9ac090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc29e07446 USER32.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc29e06f62 USER32.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc1d9be946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ff71e545d3e UE4Editor.exe!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ff71e55554c UE4Editor.exe!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ff71e5555ca UE4Editor.exe!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ff71e56316c UE4Editor.exe!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ff71e565b8e UE4Editor.exe!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc29977974 KERNEL32.DLL!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: [Callstack] 0x00007ffc2a5ea271 ntdll.dll!UnknownFunction []
+[2020.02.22-17.54.07:856][108]LogOutputDevice: Error: 
+[2020.02.22-17.54.07:857][108]LogStats:                SubmitErrorReport -  0.000 s

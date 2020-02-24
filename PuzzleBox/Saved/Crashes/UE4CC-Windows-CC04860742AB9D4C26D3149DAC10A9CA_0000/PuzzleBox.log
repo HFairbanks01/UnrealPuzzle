@@ -1,0 +1,761 @@
+﻿Log file open, 02/23/20 18:27:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PuzzleBox
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168703
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=MegaDaaze -epicuserid=72517459c05f4a93bd1c40b4bcd6281d -epiclocale=en
+LogInit: Base Directory: E:/Level Design/Unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.23-23.27.20:505][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.23-23.27.20:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:506][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-23.27.20:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-23.27.20:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-23.27.20:510][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-23.27.20:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.23-23.27.20:518][  0]LogHAL: Display: Platform has ~ 16 GB [17100492800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.23-23.27.20:519][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.23-23.27.20:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-23.27.20:519][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.23-23.27.20:520][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.23-23.27.20:520][  0]LogInit: Computer: DESKTOP-G0762KE
+[2020.02.23-23.27.20:520][  0]LogInit: User: David
+[2020.02.23-23.27.20:520][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.23-23.27.20:520][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.23-23.27.20:520][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.23-23.27.20:520][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.23-23.27.20:520][  0]LogMemory: Process Physical Memory: 96.62 MB used, 96.63 MB peak
+[2020.02.23-23.27.20:520][  0]LogMemory: Process Virtual Memory: 84.23 MB used, 84.23 MB peak
+[2020.02.23-23.27.20:520][  0]LogMemory: Physical Memory: 7961.15 MB used,  8347.15 MB free, 16308.30 MB total
+[2020.02.23-23.27.20:521][  0]LogMemory: Virtual Memory: 4624.87 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.02.23-23.27.20:545][  0]LogInit: Using OS detected language (en-US).
+[2020.02.23-23.27.20:545][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.23-23.27.20:546][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.23-23.27.20:691][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.23-23.27.20:722][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.23-23.27.20:722][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.23-23.27.20:881][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-23.27.20:881][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.23-23.27.20:932][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.02.23-23.27.20:932][  0]LogD3D11RHI:       4043/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.23-23.27.20:934][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.23-23.27.20:934][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.23-23.27.20:934][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.23-23.27.20:941][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.23-23.27.20:941][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.23-23.27.20:942][  0]LogWindows: EnumDisplayDevices:
+[2020.02.23-23.27.20:942][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.02.23-23.27.20:942][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.02.23-23.27.20:942][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.02.23-23.27.20:943][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.02.23-23.27.20:943][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.23-23.27.20:943][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.02.23-23.27.20:943][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.23-23.27.20:943][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.23-23.27.20:943][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.02.23-23.27.20:978][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.23-23.27.20:981][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-23.27.20:981][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-23.27.20:981][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.23-23.27.20:993][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.23-23.27.21:390][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.23-23.27.21:403][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.23-23.27.21:416][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.23-23.27.21:429][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.23-23.27.21:442][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.23-23.27.21:453][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.23-23.27.21:466][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.23-23.27.21:479][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.23-23.27.21:485][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.23-23.27.21:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.23-23.27.21:563][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.23-23.27.21:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.23-23.27.21:608][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.23-23.27.21:630][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.23-23.27.21:630][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.23-23.27.21:640][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.23-23.27.21:651][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.23-23.27.21:662][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.23-23.27.21:674][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.23-23.27.21:713][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.23-23.27.21:713][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.23-23.27.21:713][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.23-23.27.21:719][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.23-23.27.21:758][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Intermediate/Shaders/WorkingDirectory/20892/).
+[2020.02.23-23.27.21:758][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/David/AppData/Local/Temp/UnrealShaderWorkingDir/B562616A46AD879B8042AF8AFF08B613/'.
+[2020.02.23-23.27.21:760][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.23-23.27.21:760][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.23-23.27.21:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.23-23.27.22:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-23.27.22:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.23-23.27.22:297][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.23-23.27.22:297][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-23.27.22:297][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.23-23.27.22:309][  0]LogDerivedDataCache: Using Local data cache path C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.23-23.27.22:309][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.23-23.27.22:309][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.23-23.27.22:328][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.23-23.27.22:329][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.23-23.27.22:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.23-23.27.22:415][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2020.02.23-23.27.22:698][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-23.27.22:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.23-23.27.22:809][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.23-23.27.22:809][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.23-23.27.22:809][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.23-23.27.22:809][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.23-23.27.22:821][  0]LogNetVersion: PuzzleBox 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1860270735)
+[2020.02.23-23.27.23:157][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.024251 seconds
+[2020.02.23-23.27.23:164][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.23-23.27.23:164][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.23-23.27.23:164][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.23-23.27.23:925][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.23-23.27.23:939][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.23-23.27.24:036][  0]SourceControl: Source control is disabled
+[2020.02.23-23.27.24:036][  0]SourceControl: Source control is disabled
+[2020.02.23-23.27.24:037][  0]SourceControl: Source control is disabled
+[2020.02.23-23.27.24:037][  0]SourceControl: Source control is disabled
+[2020.02.23-23.27.24:099][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.23-23.27.24:248][  0]LogOcInput: OculusInput pre-init called
+[2020.02.23-23.27.24:889][  0]LogEngine: Initializing Engine...
+[2020.02.23-23.27.24:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-23.27.24:891][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.23-23.27.25:070][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.23-23.27.25:080][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.23-23.27.25:148][  0]LogInit: XAudio2 using 'DELL S2319H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-23.27.25:183][  0]LogInit: FAudioDevice initialized.
+[2020.02.23-23.27.25:183][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.23-23.27.25:317][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/David/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.23-23.27.25:317][  0]LogInit: Texture streaming: Enabled
+[2020.02.23-23.27.25:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.23-23.27.25:351][  0]LogInit: Transaction tracking system initialized
+[2020.02.23-23.27.25:369][  0]BlueprintLog: New page: Editor Load
+[2020.02.23-23.27.25:432][  0]LocalizationService: Localization service is disabled
+[2020.02.23-23.27.25:524][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2020.02.23-23.27.25:524][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2020.02.23-23.27.25:524][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.02.23-23.27.25:674][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/' took 0.01s
+[2020.02.23-23.27.25:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.23-23.27.25:674][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.23-23.27.25:817][  0]SourceControl: Source control is disabled
+[2020.02.23-23.27.25:817][  0]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-23.27.25:817][  0]LightingResults: New page: Lighting Build
+[2020.02.23-23.27.25:819][  0]MapCheck: New page: Map Check
+[2020.02.23-23.27.25:819][  0]LightingResults: New page: Lighting Build
+[2020.02.23-23.27.25:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.23-23.27.25:929][  0]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.23-23.27.25:933][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-23.27.25:956][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.23-23.27.25:956][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-23.27.25:956][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2020.02.23-23.27.25:956][  0]LogFileHelpers: Loading map 'TestRoom' took 0.139
+[2020.02.23-23.27.26:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-23.27.26:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-23.27.26:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-23.27.26:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-23.27.26:085][  0]LogCollectionManager: Loaded 0 collections in 0.001401 seconds
+[2020.02.23-23.27.26:100][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/Collections/' took 0.01s
+[2020.02.23-23.27.26:100][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/Developers/David/Collections/' took 0.00s
+[2020.02.23-23.27.26:100][  0]LogFileCache: Scanning file cache for directory 'E:/Level Design/PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/Collections/' took 0.00s
+[2020.02.23-23.27.26:100][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.23-23.27.26:107][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2020.02.23-23.27.26:112][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-23.27.26:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.23-23.27.26:161][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-23.27.26:165][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.23-23.27.26:177][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.23-23.27.26:179][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.23-23.27.26:183][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.23-23.27.26:245][  0]LogRenderer: Reallocating scene render targets to support 1140x620 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-23.27.26:352][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-23.27.26:352][  0]LogLoad: (Engine Initialization) Total time: 7.61 seconds
+[2020.02.23-23.27.26:352][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.23-23.27.26:380][  0]LogAssetRegistry: Asset discovery search completed in 3.9872 seconds
+[2020.02.23-23.27.26:382][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.23-23.27.26:382][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2020.02.23-23.27.26:386][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.23-23.27.26:418][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-23.27.28:707][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.27.32:006][665]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-23.27.32:127][665]LogAIModule: Creating AISystem for world HF_Room
+[2020.02.23-23.27.32:142][665]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Hayley/HF_Room.HF_Room
+[2020.02.23-23.27.32:165][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.23-23.27.32:166][665]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Hayley/HF_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-23.27.32:166][665]LightingResults: New page: Lighting Build
+[2020.02.23-23.27.32:166][665]LoadErrors: New page: Loading map: HF_Room.umap
+[2020.02.23-23.27.32:167][665]MapCheck: New page: Map Check
+[2020.02.23-23.27.32:167][665]LightingResults: New page: Lighting Build
+[2020.02.23-23.27.32:189][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.23-23.27.32:213][665]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-23.27.32:236][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.23-23.27.32:252][665]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-23.27.32:253][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2020.02.23-23.27.32:253][665]LogFileHelpers: Loading map 'HF_Room' took 0.087
+[2020.02.23-23.27.39:043][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint3' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint4' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint5' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint6' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint7' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint8' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint9' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint10' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint11' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint12' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint13' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint14' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint15' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint16' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:478][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint17' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.39:479][512]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_0.PhysicsConstraint18' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.27.40:121][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.27.40:123][588]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.HF_Room
+[2020.02.23-23.27.40:328][588]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.23-23.27.40:947][588]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.23-23.27.41:014][589]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.23-23.28.07:288][638]LogSlate: Window 'HF_Room' being destroyed
+[2020.02.23-23.28.07:291][638]LogSlate: Window 'HF_Room' being destroyed
+[2020.02.23-23.28.08:914][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.28.13:441][361]LogAIModule: Creating AISystem for world PuzzleRoom_DK
+[2020.02.23-23.28.13:444][361]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/DavidKingsley/PuzzleRoom_DK.PuzzleRoom_DK
+[2020.02.23-23.28.13:477][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.23-23.28.13:478][361]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/PuzzleRoom_DK.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-23.28.13:478][361]LightingResults: New page: Lighting Build
+[2020.02.23-23.28.13:479][361]LoadErrors: New page: Loading map: PuzzleRoom_DK.umap
+[2020.02.23-23.28.13:480][361]MapCheck: New page: Map Check
+[2020.02.23-23.28.13:480][361]LightingResults: New page: Lighting Build
+[2020.02.23-23.28.13:511][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.23-23.28.13:514][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-23.28.13:543][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.23-23.28.13:558][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-23.28.13:558][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2020.02.23-23.28.13:558][361]LogFileHelpers: Loading map 'PuzzleRoom_DK' took 0.081
+[2020.02.23-23.28.17:701][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.28.19:659][ 86]LogBlueprint: Error: [Compiler PersistentLevel.DK_Room] This blueprint (self) is not a BP_PushBlock_DK_C, therefore ' Target ' must have a connection.
+[2020.02.23-23.28.19:660][ 86]LogBlueprint: Error: [Compiler PersistentLevel.DK_Room] Variable node  Get Allign  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.02.23-23.28.19:662][ 86]LogBlueprint: Warning: [Compiler PersistentLevel.DK_Room] [0060.92] Compile of PersistentLevel.DK_Room failed. 2 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room)
+[2020.02.23-23.28.19:681][ 86]LogAIModule: Creating AISystem for world DK_Room
+[2020.02.23-23.28.19:699][ 86]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room
+[2020.02.23-23.28.19:730][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.23-23.28.19:731][ 86]Cmd: MAP LOAD FILE="../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Maps/DK_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-23.28.19:731][ 86]LightingResults: New page: Lighting Build
+[2020.02.23-23.28.19:731][ 86]LoadErrors: New page: Loading map: DK_Room.umap
+[2020.02.23-23.28.19:732][ 86]MapCheck: New page: Map Check
+[2020.02.23-23.28.19:732][ 86]LightingResults: New page: Lighting Build
+[2020.02.23-23.28.19:762][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.02.23-23.28.19:786][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-23.28.19:816][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.23-23.28.19:832][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-23.28.19:832][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.02.23-23.28.19:832][ 86]LogFileHelpers: Loading map 'DK_Room' took 0.101
+[2020.02.23-23.28.26:166][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.28.27:189][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.28.27:191][954]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room
+[2020.02.23-23.28.34:909][803]LogAIModule: Creating AISystem for world HF_Room
+[2020.02.23-23.28.34:920][803]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint_1) from referencer (K2Node_Literal /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room.EventGraph.K2Node_Literal_9).  Import failed...
+[2020.02.23-23.28.34:920][803]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint_1"''
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint2_4) from referencer (K2Node_Literal /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room.EventGraph.K2Node_Literal_10).  Import failed...
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint2_4"''
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint3_7) from referencer (K2Node_Literal /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room.EventGraph.K2Node_Literal_11).  Import failed...
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint3_7"''
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint4_10) from referencer (K2Node_Literal /Game/PuzzleBox/DavidKingsley/Maps/DK_Room.DK_Room:PersistentLevel.DK_Room.EventGraph.K2Node_Literal_12).  Import failed...
+[2020.02.23-23.28.34:921][803]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/PuzzleBox/Hayley/HF_Room.HF_Room:PersistentLevel.TargetPoint4_10"''
+[2020.02.23-23.29.16:044][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.29.29:354][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.29.32:514][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.29.35:834][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.29.41:514][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.29.42:990][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.30.34:023][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.30.42:122][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.30.53:685][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.23-23.30.58:347][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:ReceiveBeginPlay' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:ReceiveTick' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:BndEvt__TriggerBox1_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:BndEvt__TriggerBox2_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:BndEvt__TriggerBox3_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:Overlapping3' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:Overlapping2' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:Overlapping1' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:Align' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:DefaultSceneRoot' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:TriggerBox1' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:TriggerBox2' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:TriggerBox3' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.SKEL_BP_Triggers_DK_C:UserConstructionScript' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:Overlapping3' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:Overlapping2' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:Overlapping1' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:Align' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:DefaultSceneRoot' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:TriggerBox1' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:TriggerBox2' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:348][ 39]LogMetaData: Removing '/Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK_C:TriggerBox3' ref from Metadata '/Game/PuzzleBox/Hayley/BP_Triggers_DK.PackageMetaData'
+[2020.02.23-23.30.58:401][ 39]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_Triggers_DK811D1EEC4C3BF066626473A94FC68127.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.uasset'
+[2020.02.23-23.30.58:525][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.02.23-23.30.58:557][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.23-23.30.58:585][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.23-23.31.10:399][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.31.10:561][322]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_Triggers_DK.BP_Triggers_DK
+[2020.02.23-23.32.08:899][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.32.09:259][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.BP_PushBlock_DK
+[2020.02.23-23.32.23:762][646]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.23-23.32.23:943][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.23-23.32.23:946][646]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_1.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.32.24:857][736]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushBlock_DK4EC34195483BC801E29494BB4E0A6A02.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.uasset'
+[2020.02.23-23.32.44:073][779]BlueprintLog: New page: Compile BP_PushBlock_DK
+[2020.02.23-23.32.44:229][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.02.23-23.32.44:232][779]PIE: Warning: Constraint in '/Engine/Transient.World_7:PersistentLevel.BP_PushBlock_DK_C_2.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.02.23-23.32.44:682][816]LogSavePackage: Moving '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Saved/BP_PushBlock_DK833CE8DB439673BD29A0129D18C6F8D6.tmp' to '../../../../../PuzzleGame/Github/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/DavidKingsley/Core/BP_PushBlock_DK.uasset'
+[2020.02.23-23.33.08:260][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.34.07:499][359]LogEditorViewport: Clicking on Actor (LMB): BP_PushBlock_DK_C (BP_PushBlock_DK)
+[2020.02.23-23.34.11:257][806]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.02.23-23.34.23:478][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.34.24:658][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.34.36:563][770]LogEditorViewport: Clicking on Actor (LMB): BP_Triggers_DK_C (BP_Triggers_DK)
+[2020.02.23-23.34.59:116][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.35.03:709][990]Cmd: DELETE
+[2020.02.23-23.35.03:710][990]Cmd: ACTOR DELETE
+[2020.02.23-23.35.03:714][990]LogEditorActor: Deleted Actor: BP_Triggers_DK_C
+[2020.02.23-23.35.03:750][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.23-23.35.03:750][990]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.02.23-23.35.08:991][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.35.18:805][682]LogEditorViewport: Clicking on Actor (LMB): BP_Triggers_DK_C (BP_Triggers_DK)
+[2020.02.23-23.35.21:496][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.35.29:420][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.35.32:169][269]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.02.23-23.35.36:601][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.35.39:713][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.36.01:619][764]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.23-23.36.09:944][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.23-23.36.11:740][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-23.36.23:690][315]LogUObjectBase: Warning: Object is not registered
+[2020.02.23-23.36.23:690][315]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.23-23.36.25:091][315]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.400 s
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: 
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: Stack: 
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbbfc1c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbbf496fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbbf4a4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbc31c37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbbb685cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbbb641e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbfa295984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbfa4815e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbfa2dd70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbfa2da302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffbfa2d9a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ff71e547a6a UE4Editor.exe!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ff71e55554c UE4Editor.exe!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ff71e5555ca UE4Editor.exe!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ff71e56316c UE4Editor.exe!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ff71e565b8e UE4Editor.exe!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffc29977974 KERNEL32.DLL!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: [Callstack] 0x00007ffc2a5ea271 ntdll.dll!UnknownFunction []
+[2020.02.23-23.36.25:091][315]LogOutputDevice: Error: 
+[2020.02.23-23.36.25:113][315]LogStats:                SubmitErrorReport -  0.000 s
