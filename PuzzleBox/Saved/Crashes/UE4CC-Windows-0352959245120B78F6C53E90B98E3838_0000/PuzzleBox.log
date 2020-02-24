@@ -1,0 +1,1027 @@
+﻿Log file open, 02/21/20 14:46:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PuzzleBox
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.148585
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.21-19.47.00:375][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.21-19.47.00:375][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:376][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.21-19.47.00:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.21-19.47.00:380][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.21-19.47.00:380][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.21-19.47.00:380][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.21-19.47.00:417][  0]LogHAL: Display: Platform has ~ 8 GB [8449593344 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.21-19.47.00:417][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.21-19.47.00:417][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.21-19.47.00:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Scalability.ini]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.21-19.47.00:418][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Config/Windows/Engine.ini]
+[2020.02.21-19.47.00:418][  0]LogInit: Computer: LAPTOP-6F3FDUFE
+[2020.02.21-19.47.00:418][  0]LogInit: User: Z
+[2020.02.21-19.47.00:418][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.02.21-19.47.00:418][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.21-19.47.00:419][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.21-19.47.00:419][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.21-19.47.00:419][  0]LogMemory: Process Physical Memory: 99.87 MB used, 99.88 MB peak
+[2020.02.21-19.47.00:419][  0]LogMemory: Process Virtual Memory: 83.78 MB used, 83.78 MB peak
+[2020.02.21-19.47.00:419][  0]LogMemory: Physical Memory: 6295.29 MB used,  1762.88 MB free, 8058.16 MB total
+[2020.02.21-19.47.00:419][  0]LogMemory: Virtual Memory: 4621.52 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.02.21-19.47.00:620][  0]LogInit: Using OS detected language (en-US).
+[2020.02.21-19.47.00:620][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.21-19.47.00:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.21-19.47.00:890][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.21-19.47.01:185][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.21-19.47.01:185][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.21-19.47.01:462][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.21-19.47.01:462][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.21-19.47.01:657][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.02.21-19.47.01:657][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.21-19.47.01:786][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.21-19.47.01:786][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.21-19.47.01:787][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.21-19.47.01:805][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.21-19.47.01:806][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.21-19.47.01:806][  0]LogWindows: EnumDisplayDevices:
+[2020.02.21-19.47.01:806][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.02.21-19.47.01:806][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.02.21-19.47.01:807][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.02.21-19.47.01:807][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.02.21-19.47.01:807][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.02.21-19.47.01:807][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.02.21-19.47.01:807][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.02.21-19.47.01:807][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2020.02.21-19.47.01:841][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.21-19.47.01:854][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-19.47.01:855][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-19.47.01:855][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.21-19.47.01:856][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.02.21-19.47.04:335][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.21-19.47.04:349][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.21-19.47.04:363][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.21-19.47.04:377][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.21-19.47.04:391][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.21-19.47.04:405][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.21-19.47.04:419][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.21-19.47.04:434][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.21-19.47.04:442][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.21-19.47.04:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.21-19.47.04:531][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.21-19.47.04:531][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.21-19.47.04:533][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.21-19.47.04:582][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.21-19.47.04:582][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.21-19.47.04:607][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.21-19.47.04:607][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.21-19.47.04:621][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.21-19.47.04:634][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.21-19.47.04:647][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.21-19.47.04:660][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.21-19.47.04:707][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.21-19.47.04:707][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.21-19.47.04:707][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.21-19.47.04:714][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.21-19.47.04:882][  0]LogShaderCompilers: Guid format shader working directory is -50 characters bigger than the processId version (../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Intermediate/Shaders/WorkingDirectory/11120/).
+[2020.02.21-19.47.04:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Z/AppData/Local/Temp/UnrealShaderWorkingDir/00D4C53B485CE4EDC5F4B7B96E962243/'.
+[2020.02.21-19.47.04:960][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.21-19.47.04:960][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.21-19.47.04:960][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.21-19.47.05:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Z/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Z/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.21-19.47.05:663][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.21-19.47.05:676][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.21-19.47.05:676][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.21-19.47.05:676][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.21-19.47.05:689][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Z/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.21-19.47.05:689][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.21-19.47.05:689][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.21-19.47.05:711][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.21-19.47.05:712][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.21-19.47.05:991][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.21-19.47.07:165][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2020.02.21-19.47.07:523][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.21-19.47.08:005][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.21-19.47.08:005][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.21-19.47.08:005][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.21-19.47.08:005][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.21-19.47.08:005][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.21-19.47.08:043][  0]LogNetVersion: PuzzleBox 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1860270735)
+[2020.02.21-19.47.09:202][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.289776 seconds
+[2020.02.21-19.47.09:352][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.21-19.47.09:353][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.21-19.47.09:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.21-19.47.39:179][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.21-19.47.39:353][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.21-19.47.41:809][  0]SourceControl: Source control is disabled
+[2020.02.21-19.47.41:819][  0]SourceControl: Source control is disabled
+[2020.02.21-19.47.42:161][  0]SourceControl: Source control is disabled
+[2020.02.21-19.47.42:272][  0]SourceControl: Source control is disabled
+[2020.02.21-19.47.44:163][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.21-19.47.45:487][  0]LogOcInput: OculusInput pre-init called
+[2020.02.21-19.48.02:169][  0]LogEngine: Initializing Engine...
+[2020.02.21-19.48.02:174][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.21-19.48.02:241][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
+[2020.02.21-19.48.02:857][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.21-19.48.07:725][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.21-19.48.10:839][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.21-19.48.12:514][  0]LogInit: FAudioDevice initialized.
+[2020.02.21-19.48.12:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.21-19.48.12:553][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Z/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.21-19.48.12:561][  0]LogInit: Texture streaming: Enabled
+[2020.02.21-19.48.17:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.21-19.48.18:260][  0]LogInit: Transaction tracking system initialized
+[2020.02.21-19.48.19:921][  0]BlueprintLog: New page: Editor Load
+[2020.02.21-19.48.24:036][  0]LocalizationService: Localization service is disabled
+[2020.02.21-19.48.30:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/' took 0.02s
+[2020.02.21-19.48.30:421][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.21-19.48.30:422][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.21-19.48.36:422][  0]SourceControl: Source control is disabled
+[2020.02.21-19.48.36:494][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-19.48.36:525][  0]LightingResults: New page: Lighting Build
+[2020.02.21-19.48.37:071][  0]MapCheck: New page: Map Check
+[2020.02.21-19.48.37:071][  0]LightingResults: New page: Lighting Build
+[2020.02.21-19.48.37:959][  0]LogUObjectHash: Compacting FUObjectHashTables data took  19.36ms
+[2020.02.21-19.48.40:132][  0]LogStaticMesh: Building static mesh SM_Terminal...
+[2020.02.21-19.48.40:385][  0]LogStaticMesh: Built static mesh [0.28s] /Game/PuzzleBox/Art/SM_Terminal.SM_Terminal
+[2020.02.21-19.48.40:446][  0]LogMaterial: Display: Missing cached shader map for material M_MonoColor, compiling. 
+[2020.02.21-19.48.40:984][  0]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-19.48.42:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-19.48.42:742][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.02.21-19.48.42:819][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-19.48.42:932][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.92ms to complete.
+[2020.02.21-19.48.43:035][  0]LogFileHelpers: Loading map 'TestRoom' took 6.566
+[2020.02.21-19.48.49:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-19.48.49:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-19.48.49:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-19.48.49:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.21-19.48.49:855][  0]LogCollectionManager: Loaded 0 collections in 0.001907 seconds
+[2020.02.21-19.48.50:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/Collections/' took 0.01s
+[2020.02.21-19.48.50:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/Developers/Z/Collections/' took 0.01s
+[2020.02.21-19.48.50:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/Collections/' took 0.01s
+[2020.02.21-19.48.50:192][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.21-19.48.50:229][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2732 classes and 659 folders.
+[2020.02.21-19.48.50:499][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.21-19.48.50:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.50:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.50:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.50:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.51:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.21-19.48.52:142][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.21-19.48.52:364][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.02.21-19.48.53:726][  0]LogSlate: Took 0.213940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.21-19.48.53:985][  0]LogSlate: Took 0.039658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.21-19.48.54:305][  0]LogSlate: Took 0.048016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.21-19.48.56:566][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2020.02.21-19.49.02:320][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.21-19.49.02:320][  0]LogLoad: (Engine Initialization) Total time: 126.32 seconds
+[2020.02.21-19.49.02:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.21-19.49.05:385][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.21-19.49.07:636][  0]LogSlate: Took 0.520731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.21-19.49.09:066][  2]LogAssetRegistry: Asset discovery search completed in 121.9231 seconds
+[2020.02.21-19.49.09:574][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.21-19.49.09:574][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2020.02.21-19.50.11:207][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-19.51.02:894][932]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.608 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.21-19.59.44:556][ 74]LogSlate: Took 0.021856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.21-19.59.44:635][ 74]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-19.59.44:704][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.02.21-19.59.49:641][ 74]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-19.59.49:741][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.21-19.59.50:300][ 74]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZP3FCAE9EA4B4C0D1D097CA4A6FA30FEC7.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-19.59.50:369][ 74]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.703
+[2020.02.21-19.59.50:437][ 74]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-19.59.50:437][ 74]LightingResults: New page: Lighting Build
+[2020.02.21-19.59.50:503][ 74]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-19.59.50:615][ 74]MapCheck: New page: Map Check
+[2020.02.21-19.59.50:616][ 74]LightingResults: New page: Lighting Build
+[2020.02.21-19.59.50:662][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.21-19.59.50:868][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-19.59.50:877][ 74]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-19.59.50:977][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.21-19.59.51:048][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-19.59.51:076][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.02.21-19.59.51:077][ 74]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.705
+[2020.02.21-20.00.00:979][367]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.21-20.00.05:437][504]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.00.05:492][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.21-20.00.05:494][504]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.00.05:494][504]LightingResults: New page: Lighting Build
+[2020.02.21-20.00.05:495][504]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.00.05:496][504]MapCheck: New page: Map Check
+[2020.02.21-20.00.05:496][504]LightingResults: New page: Lighting Build
+[2020.02.21-20.00.05:532][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.21-20.00.05:612][504]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.00.05:613][504]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.00.05:643][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.21-20.00.05:676][504]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.00.05:676][504]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2020.02.21-20.00.05:677][504]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.185
+[2020.02.21-20.00.17:040][926]LogEditorViewport: Clicking Background
+[2020.02.21-20.00.27:214][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.01.48:229][563]LogEditorViewport: Clicking Background
+[2020.02.21-20.01.51:053][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.01.53:458][818]LogEditorViewport: Clicking Background
+[2020.02.21-20.01.58:882][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.02.17:805][753]LogStaticMesh: Building static mesh SM_Person...
+[2020.02.21-20.02.17:805][753]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.21-20.02.17:950][753]LogStaticMesh: Built static mesh [0.15s] /Game/PuzzleBox/Art/SM_Person.SM_Person
+[2020.02.21-20.02.28:789][496]LogEditorViewport: Clicking Background
+[2020.02.21-20.02.31:036][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.02.36:775][625]LogEditorViewport: Clicking Background
+[2020.02.21-20.02.45:896][903]LogEditorViewport: Clicking Background
+[2020.02.21-20.02.52:264][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.02.56:463][185]LogActorFactory: Actor Factory created Cube
+[2020.02.21-20.02.58:663][185]LogActorFactory: Actor Factory created Cube
+[2020.02.21-20.03.02:548][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.03.02:670][185]LogActorFactory: Actor Factory created Cube
+[2020.02.21-20.03.02:689][185]LogActorFactory: Actor Factory created Cube
+[2020.02.21-20.03.03:080][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.03.05:894][309]LogEditorViewport: Clicking Background
+[2020.02.21-20.03.07:143][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.21-20.03.11:622][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.03.16:129][720]LogEditorViewport: Clicking Background
+[2020.02.21-20.03.17:219][755]LogEditorViewport: Clicking Background
+[2020.02.21-20.03.17:682][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.21-20.03.18:464][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.02.21-20.03.21:115][852]Cmd: DELETE
+[2020.02.21-20.03.21:115][852]Cmd: ACTOR DELETE
+[2020.02.21-20.03.21:997][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.21-20.03.22:047][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.21-20.03.22:048][852]LogEditorActor: Deleted 1 Actors (0.171 secs)
+[2020.02.21-20.03.23:248][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.03.51:524][860]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.03.51:686][860]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.03.51:750][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.21-20.03.55:041][860]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.03.55:048][860]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.03.55:050][860]LightingResults: New page: Lighting Build
+[2020.02.21-20.03.55:052][860]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.03.55:053][860]MapCheck: New page: Map Check
+[2020.02.21-20.03.55:053][860]LightingResults: New page: Lighting Build
+[2020.02.21-20.03.55:082][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.02.21-20.03.55:375][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.03.55:415][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.21-20.03.55:435][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.03.55:435][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2020.02.21-20.03.55:435][860]LogFileHelpers: Loading map 'TestRoom' took 0.390
+[2020.02.21-20.04.14:943][323]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.05.34:437][466]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.05.34:490][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.21-20.05.34:492][466]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.05.34:492][466]LightingResults: New page: Lighting Build
+[2020.02.21-20.05.34:493][466]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.05.34:495][466]MapCheck: New page: Map Check
+[2020.02.21-20.05.34:495][466]LightingResults: New page: Lighting Build
+[2020.02.21-20.05.34:532][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.21-20.05.34:615][466]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.05.34:654][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.21-20.05.34:686][466]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.05.34:686][466]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2020.02.21-20.05.34:687][466]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.197
+[2020.02.21-20.05.42:404][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.05.51:296][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.05.53:108][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.06.02:193][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.06.02:261][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.06.05:359][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.06.10:235][942]LogEditorViewport: Clicking Background
+[2020.02.21-20.06.16:528][115]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.21-20.06.28:258][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.06.28:839][394]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.06.28:855][394]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.06.28:919][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.21-20.06.30:808][394]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.06.30:859][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.21-20.06.31:588][394]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZPB76A306E4EBCB87678479BAAAE74E9CB.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-20.06.31:616][394]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.799
+[2020.02.21-20.06.31:616][394]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.06.31:616][394]LightingResults: New page: Lighting Build
+[2020.02.21-20.06.31:617][394]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.06.31:618][394]MapCheck: New page: Map Check
+[2020.02.21-20.06.31:618][394]LightingResults: New page: Lighting Build
+[2020.02.21-20.06.31:638][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.21-20.06.31:848][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.06.31:879][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.21-20.06.31:902][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.06.31:902][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2020.02.21-20.06.31:902][394]LogFileHelpers: Loading map 'TestRoom' took 0.286
+[2020.02.21-20.06.31:937][394]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.06.35:374][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.06.51:566][716]LogSlate: Took 0.031596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.21-20.08.54:644][208]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.08.54:686][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.21-20.08.54:688][208]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.08.54:689][208]LightingResults: New page: Lighting Build
+[2020.02.21-20.08.54:690][208]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.08.54:693][208]MapCheck: New page: Map Check
+[2020.02.21-20.08.54:693][208]LightingResults: New page: Lighting Build
+[2020.02.21-20.08.54:733][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.21-20.08.54:831][208]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.08.54:864][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.21-20.08.54:898][208]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.08.54:898][208]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2020.02.21-20.08.54:900][208]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.213
+[2020.02.21-20.09.02:255][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.09.44:719][143]Cmd: DELETE
+[2020.02.21-20.09.44:719][143]Cmd: ACTOR DELETE
+[2020.02.21-20.09.44:724][143]LogEditorActor: Deleted Actor: RectLight
+[2020.02.21-20.09.44:774][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.02.21-20.09.44:775][143]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.02.21-20.09.46:267][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.09.50:261][294]Cmd: DELETE
+[2020.02.21-20.09.50:261][294]Cmd: ACTOR DELETE
+[2020.02.21-20.09.50:264][294]LogEditorActor: Deleted Actor: PointLight
+[2020.02.21-20.09.50:316][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.21-20.09.50:317][294]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.02.21-20.09.51:837][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.10.17:176][ 41]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.10.17:185][ 41]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.10.17:220][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.21-20.10.18:711][ 41]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.10.18:747][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.21-20.10.18:845][ 41]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZPD8FDD60149C0ECA7B55A469AAB56D947.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-20.10.18:886][ 41]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.164
+[2020.02.21-20.10.18:886][ 41]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.10.18:886][ 41]LightingResults: New page: Lighting Build
+[2020.02.21-20.10.18:887][ 41]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.10.18:888][ 41]MapCheck: New page: Map Check
+[2020.02.21-20.10.18:888][ 41]LightingResults: New page: Lighting Build
+[2020.02.21-20.10.18:911][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.21-20.10.18:975][ 41]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.10.18:998][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.21-20.10.19:017][ 41]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.10.19:018][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.02.21-20.10.19:018][ 41]LogFileHelpers: Loading map 'TestRoom' took 0.132
+[2020.02.21-20.10.19:051][ 41]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.10.31:893][495]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.02.21-20.10.33:228][495]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.21-20.10.35:884][495]LogSlate: Took 0.028056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.21-20.11.11:033][ 77]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2020.02.21-20.11.11:046][ 77]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2020.02.21-20.11.55:072][ 97]Cmd: EDIT COPY
+[2020.02.21-20.12.01:894][255]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.12.01:954][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.21-20.12.01:955][255]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.12.01:955][255]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.01:956][255]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.12.01:957][255]MapCheck: New page: Map Check
+[2020.02.21-20.12.01:957][255]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.01:987][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.21-20.12.02:046][255]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.12.02:074][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.21-20.12.02:099][255]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.12.02:099][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2020.02.21-20.12.02:100][255]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.146
+[2020.02.21-20.12.06:100][358]Cmd: EDIT PASTE
+[2020.02.21-20.12.24:584][831]LogSlate: Window 'Details' being destroyed
+[2020.02.21-20.12.24:603][831]LogSlate: Window 'Details' being destroyed
+[2020.02.21-20.12.33:731][ 51]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.12.33:742][ 51]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.12.33:803][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.02.21-20.12.35:136][ 51]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.12.35:233][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.21-20.12.35:414][ 51]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZPFBD0FB584EFEA8C1FFE771B62DC40268.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-20.12.35:438][ 51]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.290
+[2020.02.21-20.12.35:438][ 51]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.12.35:438][ 51]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.35:439][ 51]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.12.35:439][ 51]MapCheck: New page: Map Check
+[2020.02.21-20.12.35:439][ 51]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.35:468][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.21-20.12.35:536][ 51]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.12.35:566][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.02.21-20.12.35:584][ 51]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.12.35:588][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.958ms to complete.
+[2020.02.21-20.12.35:589][ 51]LogFileHelpers: Loading map 'TestRoom' took 0.152
+[2020.02.21-20.12.35:630][ 51]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.12.46:360][391]Cmd: EDIT COPY
+[2020.02.21-20.12.50:048][483]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.12.50:123][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.21-20.12.50:124][483]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.12.50:124][483]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.50:125][483]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.12.50:126][483]MapCheck: New page: Map Check
+[2020.02.21-20.12.50:126][483]LightingResults: New page: Lighting Build
+[2020.02.21-20.12.50:178][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.21-20.12.50:274][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.12.50:319][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.21-20.12.50:348][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.12.50:348][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2020.02.21-20.12.50:349][483]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.226
+[2020.02.21-20.12.52:978][551]Cmd: EDIT PASTE
+[2020.02.21-20.13.41:437][886]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.13.41:450][886]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.13.41:524][886]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.02.21-20.13.41:527][886]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.13.41:527][886]LightingResults: New page: Lighting Build
+[2020.02.21-20.13.41:529][886]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.13.41:530][886]MapCheck: New page: Map Check
+[2020.02.21-20.13.41:530][886]LightingResults: New page: Lighting Build
+[2020.02.21-20.13.41:589][886]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.02.21-20.13.41:762][886]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.13.41:814][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.21-20.13.41:847][886]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.13.41:848][886]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2020.02.21-20.13.41:848][886]LogFileHelpers: Loading map 'TestRoom' took 0.324
+[2020.02.21-20.14.00:286][495]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.21-20.14.07:652][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.14.08:174][685]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.14.08:178][685]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.14.08:228][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.21-20.14.08:230][685]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.14.08:231][685]LightingResults: New page: Lighting Build
+[2020.02.21-20.14.08:232][685]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.14.08:233][685]MapCheck: New page: Map Check
+[2020.02.21-20.14.08:234][685]LightingResults: New page: Lighting Build
+[2020.02.21-20.14.08:291][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.02.21-20.14.08:385][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.14.08:430][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.21-20.14.08:456][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.14.08:457][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2020.02.21-20.14.08:457][685]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.228
+[2020.02.21-20.14.14:939][843]LogActorFactory: Actor Factory created Plane
+[2020.02.21-20.14.16:174][873]LogActorFactory: Actor Factory created Plane
+[2020.02.21-20.14.17:337][902]Cmd: DELETE
+[2020.02.21-20.14.17:337][902]Cmd: ACTOR DELETE
+[2020.02.21-20.14.17:341][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.21-20.14.17:438][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.21-20.14.17:438][902]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2020.02.21-20.14.19:930][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.14.22:739][ 35]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.21-20.14.25:777][ 87]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.21-20.14.43:925][529]Cmd: TRANSACTION UNDO
+[2020.02.21-20.14.43:925][529]LogEditorTransaction: Undo Scale Actors
+[2020.02.21-20.14.58:104][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.21-20.15.02:284][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.15.52:001][272]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.21-20.16.34:140][229]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.34:140][229]LogEditorTransaction: Undo Move Actors
+[2020.02.21-20.16.34:544][239]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.34:545][239]LogEditorTransaction: Undo Scale Actors
+[2020.02.21-20.16.34:877][251]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.34:877][251]LogEditorTransaction: Undo Move Actors
+[2020.02.21-20.16.35:215][263]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.35:216][263]LogEditorTransaction: Undo Scale Actors
+[2020.02.21-20.16.35:466][268]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.35:466][268]LogEditorTransaction: Undo Scale Actors
+[2020.02.21-20.16.35:885][278]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.35:885][278]LogEditorTransaction: Undo Scale Actors
+[2020.02.21-20.16.36:493][291]Cmd: TRANSACTION UNDO
+[2020.02.21-20.16.36:493][291]LogEditorTransaction: Undo Brush Add
+[2020.02.21-20.16.38:244][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.16.40:651][397]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.21-20.16.47:587][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.16.54:186][802]Cmd: DELETE
+[2020.02.21-20.16.54:186][802]Cmd: ACTOR DELETE
+[2020.02.21-20.16.54:195][802]LogEditorActor: Deleted Actor: Brush
+[2020.02.21-20.16.54:305][802]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.02.21-20.16.54:311][802]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2020.02.21-20.16.57:064][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.17.10:173][191]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.21-20.17.31:539][665]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.21-20.17.40:972][867]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.21-20.17.57:186][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.18.01:073][414]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.21-20.19.02:853][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.19.09:665][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.19.10:174][235]LogRenderer: Reallocating scene render targets to support 964x748 Format 10 NumSamples 1 (Frame:5751).
+[2020.02.21-20.19.16:831][463]LogRenderer: Reallocating scene render targets to support 1224x748 Format 10 NumSamples 1 (Frame:5818).
+[2020.02.21-20.19.30:375][777]Cmd: EDIT COPY
+[2020.02.21-20.19.31:814][801]Cmd: EDIT PASTE
+[2020.02.21-20.19.45:069][ 20]Cmd: EDIT COPY
+[2020.02.21-20.19.45:371][ 25]Cmd: EDIT PASTE
+[2020.02.21-20.20.28:431][709]Cmd: EDIT COPY
+[2020.02.21-20.20.28:616][710]Cmd: EDIT PASTE
+[2020.02.21-20.20.44:364][972]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.21-20.20.47:338][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.20.51:835][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.21-20.20.53:972][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.21-20.20.56:997][151]Cmd: TRANSACTION UNDO
+[2020.02.21-20.20.56:997][151]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.21-20.20.59:493][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.21.01:496][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.21-20.21.14:568][461]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.21-20.21.26:466][637]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.21-20.21.42:467][881]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.21-20.21.55:267][ 82]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.21-20.22.01:946][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.22.10:249][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.22.10:660][314]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.22.10:668][314]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.22.10:722][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.21-20.22.11:853][314]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.22.11:902][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.21-20.22.12:321][314]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZPF6492B0347348F4BB6F8FB88A770CF8B.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-20.22.12:349][314]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.486
+[2020.02.21-20.22.12:351][314]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.22.12:351][314]LightingResults: New page: Lighting Build
+[2020.02.21-20.22.12:351][314]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.22.12:352][314]MapCheck: New page: Map Check
+[2020.02.21-20.22.12:352][314]LightingResults: New page: Lighting Build
+[2020.02.21-20.22.12:382][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.21-20.22.12:462][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.22.12:496][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.21-20.22.12:514][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.22.12:514][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2020.02.21-20.22.12:514][314]LogFileHelpers: Loading map 'TestRoom' took 0.164
+[2020.02.21-20.22.12:552][314]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.22.23:414][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.22.32:115][740]Cmd: EDIT COPY
+[2020.02.21-20.22.34:318][777]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.21-20.22.43:832][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.22.44:135][940]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.22.44:223][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.21-20.22.44:224][940]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.22.44:224][940]LightingResults: New page: Lighting Build
+[2020.02.21-20.22.44:225][940]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.22.44:226][940]MapCheck: New page: Map Check
+[2020.02.21-20.22.44:226][940]LightingResults: New page: Lighting Build
+[2020.02.21-20.22.44:287][940]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.02.21-20.22.44:436][940]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.22.44:480][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.02.21-20.22.44:510][940]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.22.44:510][940]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2020.02.21-20.22.44:511][940]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.288
+[2020.02.21-20.22.48:052][994]Cmd: DELETE
+[2020.02.21-20.22.48:052][994]Cmd: ACTOR DELETE
+[2020.02.21-20.22.48:058][994]LogEditorActor: Deleted Actor: Brush
+[2020.02.21-20.22.48:202][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.21-20.22.48:240][994]LogEditorActor: Deleted 1 Actors (0.188 secs)
+[2020.02.21-20.22.49:524][ 15]Cmd: DELETE
+[2020.02.21-20.22.49:525][ 15]Cmd: ACTOR DELETE
+[2020.02.21-20.22.49:532][ 15]LogEditorActor: Deleted Actor: Brush
+[2020.02.21-20.22.49:638][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2020.02.21-20.22.49:650][ 15]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2020.02.21-20.22.53:613][ 79]Cmd: DELETE
+[2020.02.21-20.22.53:613][ 79]Cmd: ACTOR DELETE
+[2020.02.21-20.22.53:618][ 79]LogEditorActor: Deleted Actor: Brush
+[2020.02.21-20.22.53:747][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.21-20.22.53:754][ 79]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2020.02.21-20.22.56:604][127]Cmd: EDIT PASTE
+[2020.02.21-20.23.01:120][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.23.01:377][200]LogAIModule: Creating AISystem for world TestRoom
+[2020.02.21-20.23.01:386][200]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/TestRoom.TestRoom
+[2020.02.21-20.23.01:440][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.02.21-20.23.03:089][200]LogSlate: Window 'Save Content' being destroyed
+[2020.02.21-20.23.03:134][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.21-20.23.03:302][200]LogSavePackage: Moving '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Saved/EnemyTestMap_ZPE60545BF4108FAB7351C5685588050B1.tmp' to '../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap'
+[2020.02.21-20.23.03:326][200]LogFileHelpers: Saving map 'EnemyTestMap_ZP' took 0.229
+[2020.02.21-20.23.03:326][200]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/TestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.23.03:326][200]LightingResults: New page: Lighting Build
+[2020.02.21-20.23.03:327][200]LoadErrors: New page: Loading map: TestRoom.umap
+[2020.02.21-20.23.03:328][200]MapCheck: New page: Map Check
+[2020.02.21-20.23.03:328][200]LightingResults: New page: Lighting Build
+[2020.02.21-20.23.03:364][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.21-20.23.03:487][200]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.23.03:518][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.21-20.23.03:546][200]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.23.03:547][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2020.02.21-20.23.03:547][200]LogFileHelpers: Loading map 'TestRoom' took 0.220
+[2020.02.21-20.23.04:274][200]LogAIModule: Creating AISystem for world EnemyTestMap_ZP
+[2020.02.21-20.23.15:695][521]Cmd: EDIT COPY
+[2020.02.21-20.23.25:492][684]LogAssetEditorManager: Opening Asset editor for World /Game/PuzzleBox/Maps/EnemyTestMap_ZP.EnemyTestMap_ZP
+[2020.02.21-20.23.25:582][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.02.21-20.23.25:582][684]Cmd: MAP LOAD FILE="../../../../../../Users/Z/Desktop/Spring 2020/DIG3727C/PuzzleProject/UnrealPuzzle/PuzzleBox/Content/PuzzleBox/Maps/EnemyTestMap_ZP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.21-20.23.25:583][684]LightingResults: New page: Lighting Build
+[2020.02.21-20.23.25:584][684]LoadErrors: New page: Loading map: EnemyTestMap_ZP.umap
+[2020.02.21-20.23.25:585][684]MapCheck: New page: Map Check
+[2020.02.21-20.23.25:585][684]LightingResults: New page: Lighting Build
+[2020.02.21-20.23.25:640][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.02.21-20.23.25:826][684]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.21-20.23.25:867][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.02.21-20.23.25:898][684]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.21-20.23.25:899][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2020.02.21-20.23.25:900][684]LogFileHelpers: Loading map 'EnemyTestMap_ZP' took 0.317
+[2020.02.21-20.23.27:623][713]Cmd: EDIT PASTE
+[2020.02.21-20.23.29:984][745]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.21-20.25.03:238][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.26.20:952][757]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.02.21-20.26.26:122][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.26.28:278][974]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.21-20.26.31:163][ 72]Cmd: DELETE
+[2020.02.21-20.26.31:163][ 72]Cmd: ACTOR DELETE
+[2020.02.21-20.26.31:170][ 72]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2020.02.21-20.26.31:238][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.21-20.26.31:238][ 72]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.02.21-20.26.31:239][ 72]LogNavigation: Warning: ConstructTiledNavMesh: Could not init navmesh.
+[2020.02.21-20.27.53:597][298]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.21-20.30.53:455][664]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.21-20.31.50:667][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.21-20.32.05:231][691]Cmd: TRANSACTION UNDO
+[2020.02.21-20.32.05:232][691]LogEditorTransaction: Undo Move Actors
+[2020.02.21-20.32.05:792][716]Cmd: TRANSACTION UNDO
+[2020.02.21-20.32.05:792][716]LogEditorTransaction: Undo Move Actors
+[2020.02.21-20.32.06:292][742]Cmd: TRANSACTION UNDO
+[2020.02.21-20.32.06:293][742]LogEditorTransaction: Undo Create Actors
+[2020.02.21-20.32.10:185][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.21-20.32.23:359][  8]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.21-20.32.23:860][  8]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.21-20.32.24:361][  8]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.21-20.32.26:965][ 10]LogRHI: Error: SyncInterval 0
+[2020.02.21-20.32.26:965][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.02.21-20.32.26:980][ 10]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.02.21-20.32.26:981][ 10]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2020.02.21-20.32.26:981][ 10]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000A060A
+[2020.02.21-20.32.26:981][ 10]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.02.21-20.32.26:981][ 10]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2020.02.21-20.32.26:981][ 10]LogRHI: Error: SwapChainDesc.Flags 2
+[2020.02.21-20.32.26:987][ 10]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.02.21-20.32.26:987][ 10]LogD3D11RHI: [Aftermath] GDynamicRHI=000001DA4C3600C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.02.21-20.32.27:199][ 10]LogWindows: Windows GetLastError: The operation completed successfully. (0)
